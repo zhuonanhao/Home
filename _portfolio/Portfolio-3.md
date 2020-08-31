@@ -1,6 +1,6 @@
 ---
 title: "A Simple Fix for Convolutional Neural Network via Coordinate Embedding"
-excerpt: "Proposed a simple approach to incorporate the coordinate information to the CNN model which reach an overall 2.47% mAP performance boost on object detection problem . <br/>  <img src='/images/detection.png'>"
+excerpt: "Proposed a simple approach to incorporate the coordinate information to the CNN model which reach an overall 2.47% mAP performance boost on object detection problem . <br/>  <img src='Homepage/images/detection.png'>"
 collection: portfolio
 ---
 
