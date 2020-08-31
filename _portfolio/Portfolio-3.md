@@ -8,5 +8,5 @@ In this project, we proposed a simple approach to incorporate the coordinate inf
 
 <br>	
 <p align="center">	
-  <img src="https://zhuonan-hao.github.io/images/cnn.png?raw=true" alt="Photo" style="width:600px;"/>	
+  <img src="https://zhuonan-hao.github.io/Homepage/images/cnn.png?raw=true" alt="Photo" style="width:600px;"/>	
 </p>
