@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,52 +8,36 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download](https://zhuonan-hao.github.io/files/Zhuonan_CV.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of California, San Diego (2019 - 2021)
+  * M.Sc. in Mechanical and Aerospace Engineering
+  * Advisor: Prof. Nicholas Gravish
+* University of Wollongong (2018 - 2019)
+  * Exchange program, major in Mechatronics and Materials Engineering
+  * Supervisor: Prof. Weihua Li
+  * Thesis: A novel semi-active vehicle suspension with a stiffness variable self-powered mr damper
+* Beijing Institute of Technology (2015 - 2019)
+  * B.Sc. in Vehiclce Engineering 
+  * Advisor: Prof. Xueyuan Li
 
-Work experience
+
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Graduate Research Assistant
+  * University of California, San Diego
+  * Research: Synchronization behavior in swarm robotics system and micro-robot design 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2019: Undergraduate Research Assistant
+  * University of Wollongong
+  * Research: Application of magneto-rheological materialonsemi-active vehicle suspension 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (Tensorflow, Pybullet, Keras, ...)
+* Matlab & Simulink
+* AutoCAD
+* Ansys/Comsol
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
