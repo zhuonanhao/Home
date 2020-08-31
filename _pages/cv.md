@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download](https://zhuonan-hao.github.io/files/Zhuonan_CV.pdf)
+[Download](https://zhuonan-hao.github.io/Homepage/files/Zhuonan_CV.pdf)
 
 Education
 ======
