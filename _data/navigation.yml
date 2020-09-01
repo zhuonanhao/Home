@@ -9,8 +9,11 @@ main:
   - title: "Honors & Awards"
     url: /honors/    
     
-  - title: "Portfolio"
+  - title: "Research"
     url: /portfolio/
+    
+  - title: "Project"
+    url: /project/
     
   - title: "Contact"
     url: /contact/
