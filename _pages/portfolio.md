@@ -10,7 +10,7 @@ author_profile: true
 **Research Projects**
 ======
 
-{% for portfolio-1.md in site.portfolio %}
+{% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
