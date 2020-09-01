@@ -14,6 +14,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<br>
+<br>
+
 **Course Projects**
 ====
 {% for post in site.portfolio %}
