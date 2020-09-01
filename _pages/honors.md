@@ -10,7 +10,7 @@ author_profile: true
 * **Honorable Mention of Mathematical Contest in Modeling**,   2018
 * **Annual Merit Undergraduate** (top 1%),   2016, 2017
 * **Grand Prize of Captial College Students' Summer Holiday Social Practices Collections** (Selected as an editors suggestion),   2016
-* **Second Prize of Contemporary Undergraduate Mathematical Contest in Modeling**,   2016,2017
+* **Second Prize of Contemporary Undergraduate Mathematical Contest in Modeling**,   2016, 2017
 
 **Awards**
 
