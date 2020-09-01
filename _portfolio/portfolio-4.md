@@ -14,7 +14,7 @@ We design a semi-active vehicle suspension with a stiffness variable self-powere
   <img src="https://zhuonan-hao.github.io/Homepage/files/suspension.jpg?raw=true" alt="Photo" style="width:600px;"/>	
 </p>
 
-After the prototype of the suspension, experimental tests were conducted to evaluate its stiffness variable feature and self-powered generation capability using a hydraulic INSTRON test system. The testing results show that the self-powered generation component can produce electric power, which is sufficient to vary the stiffness of the suspension under the rectified-supply mode, but not effective to change the stiffness of the suspension under the direct-supply mode. 
+After the prototype of the suspension, experimental tests were conducted to evaluate its stiffness variable feature and self-powered generation capability using a [hydraulic INSTRON test system](https://www.instron.us/products/testing-systems). The testing results show that the self-powered generation component can produce electric power, which is sufficient to vary the stiffness of the suspension under the rectified-supply mode, but not effective to change the stiffness of the suspension under the direct-supply mode. 
 
 <br>	
 <p align="center">	
