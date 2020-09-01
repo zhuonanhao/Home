@@ -4,7 +4,7 @@ excerpt: "Proposed a simple approach to incorporate the coordinate information t
 collection: portfolio
 ---
 
-<i class='fas fa-university'></i> Platform: Dynamics and Vibration Control Lab, University of Wollongong   <br>
+<i class='fas fa-university'></i> Platform: Dynamics and Vibration Control Lab   <br>
 <i class='fas fa-calendar-alt'></i> Time: Oct. 2018 -- Jul. 2019   <br>
 <i class='fas fa-address-book'></i> Advisor: [Prof. Weihua Li](https://scholar.google.com/citations?user=lkG9MccAAAAJ&hl=zh-CN)
 
