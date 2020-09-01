@@ -20,7 +20,7 @@ author_profile: true
 **Course Projects**
 ======
 
-{% for post in site.portfolio.projects %}
+{% for post in site.portfolio/project/project-1 %}
   {% include archive-single.html %}
 {% endfor %}
 
