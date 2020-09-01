@@ -4,7 +4,7 @@ excerpt: "Developed PR-CPG algorithm on bipedal robot, which yielded an adaptive
 collection: portfolio
 ---
 
-<i class='fas fa-university'></i> Platform: Gravish Lab   <br>
+<i class='fas fa-university'></i> Platform: [Gravish Lab](http://gravishlab.ucsd.edu/)   <br>
 <i class='fas fa-calendar-alt'></i> Time: Jan. 2020 -- Mar. 2020   <br>
 <i class='fas fa-address-book'></i> Advisor: [Prof. Nichlas Gravish](https://scholar.google.com/citations?user=AEWTj-4AAAAJ&hl=zh-CN)
 
