@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <i class='fas fa-university'></i> Platform: [DSMLP](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html)   <br>
-<i class='fas fa-calendar-alt'></i> Time: Jan. 2020 -- Mar. 2020   <br>
+<i class='fas fa-calendar-alt'></i> Time: Sep. 2019 -- Dec. 2019   <br>
 <i class='fas fa-address-book'></i> Advisor: [Prof. Nuno Vasconcelos](https://scholar.google.com/citations?user=Fykyo9gAAAAJ&hl=zh-CN)
 
 The aim of our project was to create the algorithm that can resist and correct the perturbation in the trajectory while performing the CPG between two legs. For that we took 
