@@ -4,4 +4,4 @@ excerpt: "Explore how groups of simple bio-inspired robots that move through lat
 collection: portfolio
 ---
 
-Not yet public
+Sorry, the project is not yet public.
