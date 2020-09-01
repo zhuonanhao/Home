@@ -4,7 +4,7 @@ excerpt: "Explore how groups of simple bio-inspired robots that move through lat
 collection: portfolio
 ---
 
-<i class='fas fa-university'></i> Platform: Gravish Lab   <br>
+<i class='fas fa-university'></i> Platform: [Gravish Lab](http://gravishlab.ucsd.edu/)   <br>
 <i class='fas fa-calendar-alt'></i> Time: Mar. 2020 -- present   <br>
 <i class='fas fa-address-book'></i> Advisor: [Prof. Nichlas Gravish](https://scholar.google.com/citations?user=AEWTj-4AAAAJ&hl=zh-CN)
 
