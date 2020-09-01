@@ -4,7 +4,7 @@ excerpt: "Proposed a simple approach to incorporate the coordinate information t
 collection: portfolio
 ---
 
-<i class='fas fa-university'></i> Platform: [Tensorflow](https://www.tensorflow.org/lite/models/object_detection/overview) & [DSMLP](Data Science & Machine Learning Platform)   <br>
+<i class='fas fa-university'></i> Platform: [Tensorflow](https://www.tensorflow.org/lite/models/object_detection/overview) & [DSMLP](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html)   <br>
 <i class='fas fa-calendar-alt'></i> Time: Jan. 2020 -- Mar. 2019   <br>
 <i class='fas fa-address-book'></i> Advisor: [Prof. Nuno Vasconcelos](https://scholar.google.com/citations?user=Fykyo9gAAAAJ&hl=zh-CN)
 
