@@ -4,7 +4,7 @@ excerpt: "Proposed a simple approach to incorporate the coordinate information t
 collection: portfolio
 ---
 
-<i class="material-icons">add_location</i>  UOW
+<i class='fas fa-bell'></i> UOW
 
 In this project, we proposed a simple approach to incorporate the coordinate information to the CNN model through coordinate embedding. Our approach does not change the downstream model architecture and can be easily applied to the pre-trained models for the task like object detection. Our experiments on the German Trafﬁc Sign Detection Benchmark show that our approach not only signiﬁcantly improve the model performance but also have better robustness with respect to the afﬁne transformation.
 
