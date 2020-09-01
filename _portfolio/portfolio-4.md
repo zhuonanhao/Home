@@ -6,6 +6,7 @@ collection: portfolio
 
 <i class='fas fa-university'></i> Platform: Dynamics and Vibration Control Lab, University of Wollongong   <br>
 <i class='fas fa-calendar-alt'></i> Time: Oct. 2018 -- Jul. 2019   <br>
+<i class='fas fas fa-chalkboard-teacher'></i> Advisor: [Professor Weihua Li](https://scholar.google.com/citations?user=lkG9MccAAAAJ&hl=zh-CN)
 
 We design a semi-active vehicle suspension with a stiffness variable self-powered MR damper, which can vary the stiffness of the suspension. In order to convert the mechanical vibration into the electric power to support the MR damper, the energy harvesting structure coupled a ball-screw bearing with a rotary generator. The working principle and the mathematic model are presented. 
 
