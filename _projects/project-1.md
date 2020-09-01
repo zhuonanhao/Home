@@ -1,7 +1,7 @@
 ---
 title: "Pattern recognition "
 excerpt: "Developed PR-CPG algorithm on bipedal robot, which yielded an adaptive and phase-regulated walking gait regardless of external disturbances. <br/>  <img src='https://zhuonan-hao.github.io/Homepage/images/Minitaur.jpeg'>"
-collection: project
+collection: projects
 ---
 
 <i class='fas fa-university'></i> Platform: [DSMLP](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html)   <br>
