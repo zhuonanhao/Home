@@ -1,5 +1,5 @@
 ---
-title: "A Simple Fix for Convolutional Neural Network via Coordinate Embedding"
+title: ":Application of magneto-rheological material on semi-active vehicle suspension "
 excerpt: "Proposed a simple approach to incorporate the coordinate information to the CNN model which reach an overall 2.47% mAP performance boost on object detection problem . <br/>  <img src='https://zhuonan-hao.github.io/Homepage/images/detection.png'>"
 collection: portfolio
 ---
