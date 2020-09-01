@@ -18,7 +18,8 @@ author_profile: true
 <br>
 
 **Course Projects**
-====
+======
+
 {% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
