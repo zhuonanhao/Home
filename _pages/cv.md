@@ -37,8 +37,8 @@ Experience
   
 Skills
 ======
-* Python (Tensorflow, Pybullet, ...)
-* Matlab & Simulink (Simscape, [DLTdv](http://biomech.web.unc.edu/dltdv/))
+* Python (Tensorflow, [Pybullet](https://pybullet.org/wordpress/), ...)
+* Matlab & Simulink (Simscape, [DLTdv](http://biomech.web.unc.edu/dltdv/), ...)
 * AutoCAD
 * Ansys/Comsol
 
