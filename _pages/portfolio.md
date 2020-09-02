@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-(click title for more details)
+(click heading for more detail)
 
 {% for post in site.portfolio %}
   <br>
