@@ -35,18 +35,18 @@ Core course list
 
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
-| Spring 2020 | [MAE 242 - Robot Motion Planning](#) | Sonia Martinez |A<sup>+ |
-| Winter 2020 | [ECE 271B - Statistical Learning II](#) | Manuela Vasconcelos | A |
-| Fall 2019 | [ECE 271A - Statistical Learning I](#) | Nuno Vasconcelos |A |
+| Spring 2020 | MAE 242 - Robot Motion Planning | Sonia Martinez |A<sup>+ |
+| Winter 2020 | ECE 271B - Statistical Learning II | Manuela Vasconcelos | A |
+| Fall 2019 | ECE 271A - Statistical Learning I | Nuno Vasconcelos |A |
 
 ## Control Theory
 
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
-| Spring 2020 | [MAE 281B - Nonlinear Control](#) | Jorge Cortes | A<sup>+ |
-| Spring 2020 |[MAE 288A - Optimal Control](#) | William McEneaney |A |
-| Winter 2020 | [MAE 281A - Nonlinear Systems](#) | Miroslav Krstic | A<sup>- |
-| Fall 2019 | [MAE 280A - Linear Systems Theory](#) | Robert R. Bitmead | A |
+| Spring 2020 | MAE 281B - Nonlinear Control | Jorge Cortes | A<sup>+ |
+| Spring 2020 | MAE 288A - Optimal Control | William McEneaney |A |
+| Winter 2020 | MAE 281A - Nonlinear Systems | Miroslav Krstic | A<sup>- |
+| Fall 2019 | MAE 280A - Linear Systems Theory | Robert R. Bitmead | A |
   
 ## Robotics
 
