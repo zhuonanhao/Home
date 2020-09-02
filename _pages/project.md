@@ -29,16 +29,16 @@ Core course list
 ======
 
 
-| Term | Subject course |  Grade |
-| :----: | :----: | :----: |
-| Spring 2020 | [MAE 281B - Nonlinear Control](#) | A<sup>+ |
-| Spring 2020 | [MAE 242 - Robot Motion Planning](#) | A<sup>+ |
-| Spring 2020 |[MAE 288A - Optimal Control](#) | A |
-| Winter 2020 | [ECE 271B - Statistical Learning II](#) | A |
-| Winter 2020 | [MAE 281A - Nonlinear Systems](#) | A<sup>- |
-| Winter 2020 | [MAE 207 - Bioinspired Mobile Robotics](#) | A |
-| Fall 2019 | [MAE 280A - Linear Systems Theory](#) | A |
-| Fall 2019 | [ECE 271A - Statistical Learning I](#) | A |
+| Category | Term | Subject course |  Grade |
+| | :----: | :----: | :----: |
+|| Spring 2020 | [MAE 281B - Nonlinear Control](#) | A<sup>+ |
+|| Spring 2020 | [MAE 242 - Robot Motion Planning](#) | A<sup>+ |
+|| Spring 2020 |[MAE 288A - Optimal Control](#) | A |
+|| Winter 2020 | [ECE 271B - Statistical Learning II](#) | A |
+|| Winter 2020 | [MAE 281A - Nonlinear Systems](#) | A<sup>- |
+|| Winter 2020 | [MAE 207 - Bioinspired Mobile Robotics](#) | A |
+|| Fall 2019 | [MAE 280A - Linear Systems Theory](#) | A |
+|| Fall 2019 | [ECE 271A - Statistical Learning I](#) | A |
 
 
 
