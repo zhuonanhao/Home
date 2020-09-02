@@ -53,4 +53,5 @@ Core course list
 | Fall 2019 (SH) | MECH 326 - Dynamic of Mechanisms | Emre Sariyildiz | P|
 
 *[SH]: Southern Hemisphere
+
 *[P]: Pass
