@@ -39,7 +39,7 @@ Core course list
 | Winter 2020 | [ECE 271B - Statistical Learning II](#) | Manuela Vasconcelos | A |
 | Fall 2019 | [ECE 271A - Statistical Learning I](#) | Nuno Vasconcelos |A |
 
-## Control theory
+## Control Theory
 
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
