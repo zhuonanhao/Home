@@ -66,6 +66,6 @@ Core course list
 
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
-| Fall 2017 | MAT 060780 - Fluid Mechanics | Jifu Guan | 94 |
+| Fall 2017 | MAT 060780 - Fluid Mechanics | Zhanzhong Han | 94 |
 | Spring 2017 | MAT 06070 - Material Mechanics | Xiaoli Wang | 100 |
 | Fall 2016 | MAT 06076 - Theoretical Mechanics | Qiang Zhang | 82 |
