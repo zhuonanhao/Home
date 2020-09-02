@@ -40,7 +40,7 @@ Core course list
 
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
-| Spring 2020 | MAE 281B - Nonlinear Control(#) | Jorge Cortes | A<sup>+ |
+| Spring 2020 | [MAE 281B - Nonlinear Control](#) | Jorge Cortes | A<sup>+ |
 | Spring 2020 |[MAE 288A - Optimal Control](#) | William McEneaney |A |
 | Winter 2020 | [MAE 281A - Nonlinear Systems](#) | Miroslav Krstic | A<sup>- |
 | Fall 2019 | [MAE 280A - Linear Systems Theory](#) | Robert R. Bitmead | A |
@@ -50,3 +50,5 @@ Core course list
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
 | Winter 2020 | [MAE 207 - Bioinspired Mobile Robotics](#) | Nicholas Gravish | A |
+| Fall(SH) 2019 | MECH 326 - Dynamic of Mechanisms | Emre Sariyildiz | Pass|
+
