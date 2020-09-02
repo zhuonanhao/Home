@@ -36,7 +36,7 @@ Core course list
 | Spring 2020 |[MAE 288A - Optimal Control](#) | A |
 | Winter 2020 | [ECE 271B - Statistical Learning II](#) | A |
 | Winter 2020 | [MAE 281A - Nonlinear Systems](#) | A<sup>- |
-| Winter 2020 | [MAE 207 - Bioinspired Mobile Robotics](#) | A<sup>- |
+| Winter 2020 | [MAE 207 - Bioinspired Mobile Robotics](#) | A |
 | Fall 2019 | [MAE 280A - Linear Systems Theory](#) | A |
 | Fall 2019 | [ECE 271A - Statistical Learning I](#) | A |
 
