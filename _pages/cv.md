@@ -39,6 +39,6 @@ Skills
 ======
 * Python (Tensorflow, [Pybullet](https://pybullet.org/wordpress/), ...)
 * Matlab & Simulink (Simscape, [DLTdv](http://biomech.web.unc.edu/dltdv/), ...)
-* AutoCAD
-* Ansys/Comsol
+* Computer-aided design: AutoCAD, Solidwork, Inventor, ...
+* Finite Element Analysis: ANSYS, COMSOL, ...
 
