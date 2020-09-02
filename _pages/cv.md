@@ -25,7 +25,7 @@ Education
   * Advisor: Prof. Xueyuan Li
 
 
-Experience
+Training
 ======
 * Summer 2020: Graduate Research Assistant
   * University of California, San Diego
@@ -41,3 +41,9 @@ Skills
 * Matlab & Simulink (Simscape, [DLTdv](http://biomech.web.unc.edu/dltdv/), ...)
 * Computer-aided design: AutoCAD, Solidwork, Inventor, ...
 * Finite Element Analysis: ANSYS, COMSOL, ...
+
+Outreach
+======
+* Science outreach in high school, 2017
+* "the XXIV Olympic Winter Games" Student Volunteer, 2017
+* "BIT Tell You Story" school visit program, 2016
