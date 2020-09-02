@@ -33,7 +33,7 @@ Training
 
 * Winter 2019: Undergraduate Research Assistant
   * University of Wollongong
-  * Research: Application of magneto-rheological materialonsemi-active vehicle suspension 
+  * Research: Application of magneto-rheological material on semi-active vehicle suspension 
   
 Skills
 ======
