@@ -62,7 +62,7 @@ Core course list
 
 *[88]: Out of 100
 
-## Material 
+## Material & Mechanics
 
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
