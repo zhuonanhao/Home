@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Project"
+title: "Selected course projects"
 permalink: /project/
 author_profile: true
 ---
 
 {% include base_path %}
-
-Selected course projects
-======
 
 ## Robot Motion planning
 
