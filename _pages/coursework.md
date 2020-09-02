@@ -54,10 +54,18 @@ Core course list
 | :----: | :----: | :----: | :----: |
 | Winter 2020 | MAE 207 - Bioinspired Mobile Robotics | Nicholas Gravish | A |
 | Fall 2019 (SH) | MECH 326 - Dynamic of Mechanisms | Emre Sariyildiz | P |
-| Fall 2018 | ME 200 - Intelligent Robot Design | Jifu Guan | 88 |
+| Fall 2018 | AUTO 06085 - Intelligent Robot Design | Jifu Guan | 88 |
 
 *[SH]: Southern Hemisphere
 
 *[P]: Pass
 
 *[88]: Out of 100
+
+## Material 
+
+| Term | Subject course | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| Fall 2017 | MAT 060780 - Fluid Mechanics | Jifu Guan | 94 |
+| Spring 2017 | MAT 06070 - Material Mechanics | Xiaoli Wang | 100 |
+| Fall 2016 | MAT 06076 - Theoretical Mechanics | Qiang Zhang | 82 |
