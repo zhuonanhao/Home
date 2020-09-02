@@ -1,6 +1,6 @@
 ---
 title: "Application of magneto-rheological material on semi-active vehicle suspension "
-excerpt: "Proposed a simple approach to incorporate the coordinate information to the CNN model which reach an overall 2.47% mAP performance boost on object detection problem . <br/>  <img src='https://zhuonan-hao.github.io/Homepage/files/mrf.gif'>"
+excerpt: "The work presents the modelling and experimental evaluation of a semi-active vehicle suspension installed with a self-powered MR damper which is able to perform variable stiffness. <img src='https://zhuonan-hao.github.io/Homepage/files/mrf.gif'> <img src='https://zhuonan-hao.github.io/Homepage/files/mrf.gif'>"
 collection: portfolio
 ---
 
