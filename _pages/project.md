@@ -31,7 +31,6 @@ Core course list
 ## Deep Learning
 | Term | Subject course |  Grade |
 | :----: | :----: | :----: |
-
 | Spring 2020 | [dd](#) | A<sup>+ |
 | Spring 2020 | [MAE 242 - Robot Motion Planning](#) | A<sup>+ |
 | Spring 2020 |[MAE 288A - Optimal Control](#) | A |
