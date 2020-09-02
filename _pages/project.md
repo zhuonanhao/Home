@@ -29,7 +29,7 @@ Core course list
 ======
 
 
-| Code | Term | Name |
+| Code | Term | Name | Grade |
 | :----:       | :----: | :----: | :----: |
 | [MAE 281B](#) | Spring 2020 | Nonlinear Control | 4.0/4.0 |
 | [MAE 288A](#) | Spring 2020 | Optimal Control | 4.0/4.0 |
