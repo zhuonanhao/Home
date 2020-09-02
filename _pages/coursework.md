@@ -31,7 +31,7 @@ Selected course projects
 <br>
 <br>
 
-Core course list
+Core course
 ======
 
 ## Deep Learning
