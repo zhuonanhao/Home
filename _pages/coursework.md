@@ -69,3 +69,7 @@ Core course list
 | Fall 2017 | MAT 060780 - Fluid Mechanics | Zhanzhong Han | 94 |
 | Spring 2017 | MAT 06070 - Material Mechanics | Xiaoli Wang | 100 |
 | Fall 2016 | MAT 06076 - Theoretical Mechanics | Qiang Zhang | 82 |
+
+*[94]: Out of 100
+*[100]: Out of 100
+*[82]: Out of 100
