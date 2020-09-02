@@ -29,6 +29,7 @@ Core course list
 ======
 
 ## Deep Learning
+
 | Term | Subject course |  Grade |
 | :----: | :----: | :----: |
 | Spring 2020 | [dd](#) | A<sup>+ |
