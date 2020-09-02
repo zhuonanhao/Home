@@ -1,6 +1,6 @@
 ---
 title: "Application of magneto-rheological material on semi-active vehicle suspension "
-excerpt: "Presented the modelling and experimental evaluation of a semi-active vehicle suspension installed with a self-powered MR damper which is able to perform variable stiffness. <br> <img src='https://zhuonan-hao.github.io/Homepage/images/p4.png'>"
+excerpt: "Presented the modelling and experimental evaluation of a semi-active vehicle suspension installed with a self-powered MR damper which is able to perform variable stiffness. <br> <img src='https://zhuonan-hao.github.io/Homepage/images/MRDamper.jpg'>  <img src='https://zhuonan-hao.github.io/Homepage/images/mrf.gif'>"
 collection: portfolio
 ---
 
