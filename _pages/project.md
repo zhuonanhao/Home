@@ -29,9 +29,9 @@ Core course list
 ======
 
 
-| Entry            | Item   |                                                              |
+| Code             | Term   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [MAE281B](#)    | Spring 2021   |                     Nonlinear control     
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
