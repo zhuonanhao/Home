@@ -25,6 +25,16 @@ author_profile: true
 *Beijing Institute of Technology, May 2017~ May 2018*  
 *Course*: Undergraduate Innovational Program
 
+Core course list
+======
+
+
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
 
 
 
