@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Selected course projects
+Selected course projects
+======
 
 ## Robot Motion planning
 [[video]](https://www.youtube.com/watch?v=rL95dglox2c&t=158s) [[paper]](https://arxiv.org/abs/2007.02794) [code]
