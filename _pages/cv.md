@@ -47,4 +47,4 @@ Outreach
 * Science outreach about Magnetism in high school, 2017
 * "the XXIV Olympic Winter Games" Student Volunteer, 2017
 * "BIT Tell You Story" school visit program, 2016
-* Memorial talk for Veteran， 2015
+* Memorial talk for Veteran, 2015
