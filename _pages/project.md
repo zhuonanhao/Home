@@ -30,7 +30,7 @@ Core course list
 
 
 | Category | Term | Subject course |  Grade |
-| | :----: | :----: | :----: |
+| :----: | :----: | :----: | :----: |
 || Spring 2020 | [MAE 281B - Nonlinear Control](#) | A<sup>+ |
 || Spring 2020 | [MAE 242 - Robot Motion Planning](#) | A<sup>+ |
 || Spring 2020 |[MAE 288A - Optimal Control](#) | A |
