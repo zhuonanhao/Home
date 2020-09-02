@@ -11,6 +11,6 @@ author_profile: true
 
 {% for post in site.portfolio %}
   <br>
-  <br>
   {% include archive-single.html %}
+  <br>
 {% endfor %}
