@@ -50,8 +50,7 @@ Core course list
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
 | Winter 2020 | [MAE 207 - Bioinspired Mobile Robotics](#) | Nicholas Gravish | A |
-| Fall 2019 (SH) | MECH 326 - Dynamic of Mechanisms | Emre Sariyildiz | Pass|
-
+| Fall 2019 (SH) | MECH 326 - Dynamic of Mechanisms | Emre Sariyildiz | P|
 
 *[SH]: Southern Hemisphere
-
+*[P]: Pass
