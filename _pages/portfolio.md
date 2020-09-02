@@ -10,7 +10,6 @@ author_profile: true
 (click heading for more detail)
 
 {% for post in site.portfolio %}
-  <br>
   {% include archive-single.html %}
   <br>
 {% endfor %}
