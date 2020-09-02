@@ -19,7 +19,7 @@ Education
 * University of Wollongong (2018 - 2019)
   * Exchange program, major in Mechatronics and Materials Engineering
   * Supervisor: Prof. Weihua Li
-  * Thesis: A novel semi-active vehicle suspension with a stiffness variable self-powered mr damper
+  * Thesis: A novel semi-active vehicle suspension with a stiffness variable self-powered MR damper
 * Beijing Institute of Technology (2015 - 2019)
   * B.Sc. in Vehiclce Engineering 
   * Advisor: Prof. Xueyuan Li
