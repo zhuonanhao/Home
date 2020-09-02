@@ -56,10 +56,8 @@ Core course list
 | Fall 2019 (SH) | MECH 326 - Dynamic of Mechanisms | Emre Sariyildiz | P |
 | Fall 2018 | AUTO 06085 - Intelligent Robot Design | Jifu Guan | 88 |
 
-*[SH]: Southern Hemisphere
-
-*[P]: Pass
-
+*[SH]: Southern Hemisphere  
+*[P]: Pass  
 *[88]: Out of 100
 
 ## Material & Mechanics
