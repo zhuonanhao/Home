@@ -54,7 +54,7 @@ Core course list
 | :----: | :----: | :----: | :----: |
 | Winter 2020 | MAE 207 - Bioinspired Mobile Robotics | Nicholas Gravish | A |
 | Fall 2019 (SH) | MECH 326 - Dynamic of Mechanisms | Emre Sariyildiz | P |
-| Fall 2018 (SH) | ME 200 - Intelligent Robot Design | Jifu Guan | 88 |
+| Fall 2018 | ME 200 - Intelligent Robot Design | Jifu Guan | 88 |
 
 *[SH]: Southern Hemisphere
 
