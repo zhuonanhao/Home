@@ -28,6 +28,9 @@ Selected course projects
 *Beijing Institute of Technology, May 2017~ May 2018*  
 *Course*: Undergraduate Innovational Program
 
+<br>
+<br>
+
 Core course list
 ======
 
