@@ -30,12 +30,12 @@ Core course list
 
 
 | Code | Term | Name |
-| :----:       | :----: | :---------------: |
-| [MAE 281B](#) | Spring 2020 | Nonlinear Control |
-| [MAE 288A](#) | Spring 2020 | Optimal Control |
-| [ECE 271B](#) | Winter 2020 | Statistical Learning II |
-| [MAE 281A](#) | Winter 2020 | Nonlinear Systems |
-| [MAE 280A](#) | Fall 2019 | Linear Systems Theory |
+| :----:       | :----: | :----: | :----: |
+| [MAE 281B](#) | Spring 2020 | Nonlinear Control | 4.0/4.0 |
+| [MAE 288A](#) | Spring 2020 | Optimal Control | 4.0/4.0 |
+| [ECE 271B](#) | Winter 2020 | Statistical Learning II | 4.0/4.0 |
+| [MAE 281A](#) | Winter 2020 | Nonlinear Systems | 4.0/4.0 |
+| [MAE 280A](#) | Fall 2019 | Linear Systems Theory | 4.0/4.0 |
 
 
 
