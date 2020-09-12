@@ -35,6 +35,17 @@ Training
   * University of Wollongong
   * Research: Application of magneto-rheological material on semi-active vehicle suspension 
   
+Teaching
+======
+* Fall 2020: Teaching Assistant
+  * University of California, San Diego
+  * Course: [MAE150 - Computer-Aided Design](https://www.ucsd.edu/catalog/courses/MAE.html)
+  * Duty: Prepare homeworks, grade assignments, and help with office hours
+* Fall 2018: Teaching Assistant
+  * Beijing Institute of Technology
+  * Course: Linear and Nonlinear System
+  * Duty: Collect homeworks, grade assignments
+  
 Skills
 ======
 * Python (Tensorflow, [Pybullet](https://pybullet.org/wordpress/), ...)
