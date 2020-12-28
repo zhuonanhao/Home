@@ -18,7 +18,7 @@ The study focused on group behavior that resulted from the local contact of the 
 
 Both simulation and experiment illustrated that gait compatibility was realized through a relative translation in the direction of motion (open loop) or phase regualtion (closed-loop). With in-depth study, we figured out some relative factors, such as standard deviation of initial robot phases, density of robot system and even the locomotion pattern, exerted the certain influence on the synchronization process. The work provides an insight about design principles of swarm robotics system and has been already organized as one journal paper.
 
-Demo: <br/>
+Demos: <br/>
 Simulation:<br/>
 W/O self-organization capability
 {% include youtubePlayer.html id=page.youtubeId2 %}
