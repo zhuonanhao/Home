@@ -8,4 +8,13 @@ collection: portfolio
 <i class='fas fa-calendar-alt'></i> Time: Mar. 2020 -- present   <br>
 <i class='fas fa-address-book'></i> Advisor: [Prof. Nichlas Gravish](https://scholar.google.com/citations?user=AEWTj-4AAAAJ&hl=zh-CN)
 
-Sorry, the content is not yet available.
+Sync up demo: 
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/watch?v=dH1J7cAwSV4"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
