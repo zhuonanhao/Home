@@ -2,6 +2,8 @@
 title: "Perturbation Resilient Central Pattern Generator (PR-CPG) on a Hybrid Bipedal-Wheeled Robot"
 excerpt: "Developed PR-CPG algorithm on bio-inspired robot to realize robust and adaptive locomotion control against various external disturbance. <br/>  <img src='https://zhuonan-hao.github.io/Homepage/images/central.png'>   <img src='https://zhuonan-hao.github.io/Homepage/images/Minitaur.jpeg'>"
 collection: portfolio
+youtubeId1: yMS-1M50nEM
+youtubeId2: l8UlMAGnlDI
 ---
 
 <i class='fas fa-university'></i> Platform: [Gravish Lab](http://gravishlab.ucsd.edu/)   <br>
@@ -15,3 +17,11 @@ inspiration from limit cycle theory. At each point,we measure phase ψ of the le
 <p align="center">
   <img src="https://zhuonan-hao.github.io/Homepage/files/PR.gif?raw=true" alt="Photo" style="width:400px;"/>
 </p>
+
+
+Experiment - leg locomotion without self-organization (no/low coupling case)
+{% include youtubePlayer.html id=page.youtubeId1 %} <br/>
+
+Experiment - leg locomotion with self-organization (strong coupling case)
+{% include youtubePlayer.html id=page.youtubeId2 %} <br/>
+
