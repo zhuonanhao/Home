@@ -92,9 +92,9 @@ author:
   location         : "San Diego, California"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=8bMIuQoAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=8bMIuQoAAAAJ&hl=en"
   email            : "z4hao@ucsd.edu"
-  researchgate     : "https://www.researchgate.net/profile/Zhuonan_Hao"
+  researchgate     : #"https://www.researchgate.net/profile/Zhuonan_Hao"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "zhuonan-hao"
-  orcid            : "https://orcid.org/0000-0001-5256-8528"
+  orcid            : #"https://orcid.org/0000-0001-5256-8528"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
