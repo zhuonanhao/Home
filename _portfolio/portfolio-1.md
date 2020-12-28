@@ -25,10 +25,10 @@ Simulation - W/ self-organization capability
 {% include youtubePlayer.html id=page.youtubeId1 %} <br/>
 
 Experiment - Synchronization of Multi-Robot Systems
-{% include youtubePlayer.html id=page.youtubeId3 %} <br/>
+{% include youtubePlayer.html id=page.youtubeId4 %} <br/>
 
 Experiment - Synchronization of Autonomous Robot System
-{% include youtubePlayer.html id=page.youtubeId4 %} <br/>
+{% include youtubePlayer.html id=page.youtubeId3 %} <br/>
 
 
 
