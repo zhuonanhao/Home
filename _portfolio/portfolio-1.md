@@ -20,11 +20,13 @@ Both simulation and experiment illustrated that gait compatibility was realized 
 
 Simulation - W/O self-organization capability
 {% include youtubePlayer.html id=page.youtubeId2 %}
+
 Simulation - W/ self-organization capability
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 Experiment - Synchronization of Multi-Robot Systems
 {% include youtubePlayer.html id=page.youtubeId3 %}
+
 Experiment - Synchronization of Autonomous Robot System
 {% include youtubePlayer.html id=page.youtubeId4 %}
 
