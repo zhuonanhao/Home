@@ -4,6 +4,8 @@ excerpt: "Explored how groups of simple bio-inspired robots that move through la
 collection: portfolio
 youtubeId1: wEbyVUq77Uw
 youtubeId2: dH1J7cAwSV4
+youtubeId3: 3LbgRodRnvY
+youtubeId4: I80yvyYmUAg
 ---
 
 
@@ -13,15 +15,21 @@ youtubeId2: dH1J7cAwSV4
 
 
 The study focused on group behavior that resulted from the local contact of the individuals with each other and with the environment in both closed-loop and open-loop system. We adopted the undulatory crawling robot built out of three active body modules and two controllable joints as the protype and investigated the collective behavior when multiple robots moved along one narrow channel. <br/>
+
 Both simulation and experiment illustrated that gait compatibility was realized through a relative translation in the direction of motion (open loop) or phase regualtion (closed-loop). With in-depth study, we figured out some relative factors, such as standard deviation of initial robot phases, density of robot system and even the locomotion pattern, exerted the certain influence on the synchronization process. The work provides an insight about design principles of swarm robotics system and has been already organized as one journal paper.
 
 Demo: <br/>
-
-Simulation
+Simulation:<br/>
 W/O self-organization capability
 {% include youtubePlayer.html id=page.youtubeId2 %}
 W/ self-organization capability
 {% include youtubePlayer.html id=page.youtubeId1 %}
+
+Experiment:<br/>
+Synchronization of Multi-Robot Systems
+{% include youtubePlayer.html id=page.youtubeId3 %}
+Synchronization of Autonomous Robot System
+{% include youtubePlayer.html id=page.youtubeId4 %}
 
 
 
