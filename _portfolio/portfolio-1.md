@@ -12,7 +12,10 @@ youtubeId2: dH1J7cAwSV4
 <i class='fas fa-address-book'></i> Advisor: [Prof. Nichlas Gravish](https://scholar.google.com/citations?user=AEWTj-4AAAAJ&hl=zh-CN)
 
 Synchronization demo: 
-{% include youtubePlayer.html id=page.youtubeId1 %}
+W/O self-organization capability
 {% include youtubePlayer.html id=page.youtubeId2 %}
+W/ self-organization capability
+{% include youtubePlayer.html id=page.youtubeId1 %}
+
 
 
