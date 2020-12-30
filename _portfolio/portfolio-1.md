@@ -7,6 +7,7 @@ youtubeId2: dH1J7cAwSV4
 youtubeId3: 3LbgRodRnvY
 youtubeId4: I80yvyYmUAg
 youtubeId5: tMHnurumYwA
+youtubeId6: l8HcnCYbMGY
 ---
 
 
@@ -25,14 +26,18 @@ Simulation - W/O self-organization capability
 Simulation - W/ self-organization capability
 {% include youtubePlayer.html id=page.youtubeId1 %} <br/>
 
-Experiment - Synchronization of Multi-Robot Systems
-{% include youtubePlayer.html id=page.youtubeId4 %} <br/>
-
 Experiment - Synchronization of Autonomous Robot System
 {% include youtubePlayer.html id=page.youtubeId3 %} <br/>
 
+Experiment - Synchronization of Multi-Robot System (Open loop configuration)
+{% include youtubePlayer.html id=page.youtubeId4 %} <br/>
+
+Simulation - Synchronization of Multi-Robot System (Closed loop configuration)
+{% include youtubePlayer.html id=page.youtubeId6 %} <br/>
+
 Simulation - Swimmer Narrow Channel Passability Comparision <br/>
-Top: Openloop, Bottom: Closedloop
+Top: Openloop <br/>
+Bottom: Closedloop
 {% include youtubePlayer.html id=page.youtubeId5 %} <br/>
 
 
