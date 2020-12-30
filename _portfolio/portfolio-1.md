@@ -6,6 +6,7 @@ youtubeId1: wEbyVUq77Uw
 youtubeId2: dH1J7cAwSV4
 youtubeId3: 3LbgRodRnvY
 youtubeId4: I80yvyYmUAg
+youtubeId4: tMHnurumYwA
 ---
 
 
@@ -29,6 +30,10 @@ Experiment - Synchronization of Multi-Robot Systems
 
 Experiment - Synchronization of Autonomous Robot System
 {% include youtubePlayer.html id=page.youtubeId3 %} <br/>
+
+Simulation - Swimmer Narrow Channel Passability Comparision <br/>
+Top: Openloop, Bottom: Closedloop
+{% include youtubePlayer.html id=page.youtubeId5 %} <br/>
 
 
 
