@@ -21,6 +21,7 @@ The study focused on group behavior that resulted from the local contact of the 
 
 <p align="center">
   <img src="https://zhuonan-hao.github.io/Homepage/images/CAD model.png?raw=true" alt="Photo" style="width:400px;"/>
+  <br>
   CAD Model
 </p>
 
