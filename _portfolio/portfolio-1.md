@@ -7,7 +7,7 @@ youtubeId2: dH1J7cAwSV4
 youtubeId3: 4QYgdLAgntk
 youtubeId4: I80yvyYmUAg
 youtubeId5: tMHnurumYwA
-youtubeId6: l8HcnCYbMGY
+youtubeId6: qwViq12MrE0
 ---
 
 
@@ -37,5 +37,6 @@ Top: Openloop <br/>
 Bottom: Closedloop
 {% include youtubePlayer.html id=page.youtubeId5 %} <br/>
 
-
+Experiment - Comparison of adaptive gain 
+{% include youtubePlayer.html id=page.youtubeId6 %} <br/>
 
