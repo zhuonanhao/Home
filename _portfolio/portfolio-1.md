@@ -4,7 +4,7 @@ excerpt: "Explored how groups of simple bio-inspired robots that move through la
 collection: portfolio
 youtubeId1: wEbyVUq77Uw
 youtubeId2: dH1J7cAwSV4
-youtubeId3: 3LbgRodRnvY
+youtubeId3: 4QYgdLAgntk
 youtubeId4: I80yvyYmUAg
 youtubeId5: tMHnurumYwA
 youtubeId6: l8HcnCYbMGY
