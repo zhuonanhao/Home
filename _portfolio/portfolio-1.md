@@ -19,8 +19,8 @@ youtubeId7: juvu1H4cCgY
 
 The study focused on group behavior that resulted from the local contact of the individuals with each other and with the environment in both closed-loop and open-loop system. We adopted the undulatory crawling robot built out of three active body modules and two controllable joints as the protype and investigated the collective behavior when multiple robots moved along one narrow channel. <br/>
 
-CAD model
 <p align="center">
+  CAD model:
   <img src="https://zhuonan-hao.github.io/Homepage/images/CAD model.png?raw=true" alt="Photo" style="width:400px;"/>
 </p>
 
