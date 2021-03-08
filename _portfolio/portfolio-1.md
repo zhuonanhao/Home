@@ -8,6 +8,7 @@ youtubeId3: 4QYgdLAgntk
 youtubeId4: I80yvyYmUAg
 youtubeId5: tMHnurumYwA
 youtubeId6: qwViq12MrE0
+youtubeId7: juvu1H4cCgY
 ---
 
 
@@ -40,3 +41,5 @@ Bottom: Closedloop
 Experiment - Comparison of adaptive gain 
 {% include youtubePlayer.html id=page.youtubeId6 %} <br/>
 
+Experiment - Application on 2 leg robot for pushing block
+{% include youtubePlayer.html id=page.youtubeId7 %} <br/>
