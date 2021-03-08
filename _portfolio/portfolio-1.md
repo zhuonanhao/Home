@@ -19,6 +19,10 @@ youtubeId7: juvu1H4cCgY
 
 The study focused on group behavior that resulted from the local contact of the individuals with each other and with the environment in both closed-loop and open-loop system. We adopted the undulatory crawling robot built out of three active body modules and two controllable joints as the protype and investigated the collective behavior when multiple robots moved along one narrow channel. <br/>
 
+<p align="center">
+  <img src="https://zhuonan-hao.github.io/Homepage/images/CAD model.png?raw=true" alt="Photo" style="width:400px;"/>
+</p>
+
 Both simulation and experiment illustrated that gait compatibility was realized through a relative translation in the direction of motion (open loop) or phase regualtion (closed-loop). With in-depth study, we figured out some relative factors, such as standard deviation of initial robot phases, density of robot system and even the locomotion pattern, exerted the certain influence on the synchronization process. The work provides an insight about design principles of swarm robotics system and has been already organized as one journal paper.
 
 Simulation - W/O self-organization capability
