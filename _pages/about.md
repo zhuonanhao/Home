@@ -18,7 +18,7 @@ redirect_from:
 Recent News
 ======
 * June, 2021. One paper called "Synchronized swimming: adaptive gait synchronization through mechanical interactions instead of communication" accepted to [The 9.5th international symposium on Adaptive Motion of Animals and Machines (AMAM2021)(https://amam2021.squarespace.com/).
-* December, 2020. One paper called "Modelling and experimental evaluation of a variable stiffness MR suspension with self-powering capability" accepted to [Journal of Intelligent Material Systems and Structures](https://journals.sagepub.com/home/jim).
+* December, 2020. One paper called "Modelling and experimental evaluation of a variable stiffness MR suspension with self-powering capability" accepted to [Journal of Intelligent Material Systems and Structures](https://journals.sagepub.com/doi/abs/10.1177/1045389X20986994).
 * May, 2020. I attended [Dynamic Walking 2020 (virtual)](https://dynamicwalking.org/index.php/dw/2020) held in Woodloch Resort, Hawley, Pennsylvania, USA.
 * Mar, 2020. One preprint paper called "A Simple Fix for Convolutional Neural Network via Coordinate Embedding" got well-accepted at [DeepAI](https://deepai.org/publication/a-simple-fix-for-convolutional-neural-network-via-coordinate-embedding) and promotoed by [arXiv Daily](https://twitter.com/arXiv_Daily/status/1244929923979984897).
 * Dec, 2019. I attended [The 17th International Conference on Electrorheological Fluids and Magnetorheological Suspensions (ERMR2019)](http://ermr2019.com.au/) held in Wollongong, NSW, Australia.
