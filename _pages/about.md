@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am a graduate student in the [Department of Mechanical and Aerospace Engineering](http://maeweb.ucsd.edu/) at [UC San Diego](https://ucsd.edu/), advised by Prof. [Nicholas Gravish](http://web.eng.ucsd.edu/~ngravish/) in [Gravish lab](http://gravishlab.ucsd.edu/index.html). 
-
 * My research interests lie in the general area of robotics, particularly in autonomous and adaptive control, multi-agent systems and deep learning, as well as their applications in swarm system, robot locomotion and bio-inspired robotics.
+
+* I received my master degree in the [Department of Mechanical and Aerospace Engineering](http://maeweb.ucsd.edu/) at [UC San Diego](https://ucsd.edu/), advised by Prof. [Nicholas Gravish](http://web.eng.ucsd.edu/~ngravish/) in [Gravish lab](http://gravishlab.ucsd.edu/index.html). 
 
 * I received my Bachelor’s Degree in [Beijing Institute of Technology](http://english.bit.edu.cn/). My undergraduate research concentrates on [Unmanned Ground Vehicle(UGV)](https://en.wikipedia.org/wiki/Unmanned_ground_vehicle), advised by Prof. [Xueyuan Li](http://me.bit.edu.cn/szdw/jlgcx/tzjlyjs/sssds1/28752.htm). During my senior year, I was a visiting student researcher at Dynamics and Vibration Control Lab in [University of Wollongong](https://www.uow.edu.au/), supervised by [Senior Prof. Weihua Li](https://scholars.uow.edu.au/display/weihua_li). 
 
