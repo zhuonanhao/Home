@@ -18,7 +18,7 @@ redirect_from:
 Recent News
 ======
 * June, 2021. One paper called ["Collective synchronization of undulatory movement through contact"](https://journals.aps.org/prx/accepted/ee07bKb2M3f12909456811f34575a7e178c4843fc) accepted to [Physical Review X](https://journals.aps.org/prx/).
-* May, 2021. I complete my master thesis defense "Design principles for locomotion synchronization in undulatory robot groups" at [UC San Diego](https://escholarship.org/uc/item/4842p306).
+* May, 2021. I complete my master thesis defense ["Design principles for locomotion synchronization in undulatory robot groups"](https://escholarship.org/uc/item/4842p306) at UC San Diego.
 * May, 2021. One paper called "Synchronized swimming: adaptive gait synchronization through mechanical interactions instead of communication" accepted to [The 9.5th international symposium on Adaptive Motion of Animals and Machines (AMAM2021)](https://amam2021.squarespace.com/).
 * December, 2020. One paper called "Modelling and experimental evaluation of a variable stiffness MR suspension with self-powering capability" accepted to [Journal of Intelligent Material Systems and Structures](https://journals.sagepub.com/doi/abs/10.1177/1045389X20986994).
 * May, 2020. I attended [Dynamic Walking 2020 (virtual)](https://dynamicwalking.org/index.php/dw/2020) held in Woodloch Resort, Hawley, Pennsylvania, USA.
