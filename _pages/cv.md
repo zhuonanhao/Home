@@ -13,6 +13,9 @@ Download: [Curriculum_Vitae.pdf](https://zhuonan-hao.github.io/Homepage/files/Cu
 
 Education
 ======
+* University of California, Los Angeles (2021 - )
+  * Ph.D in Mechanical and Aerospace Engineering
+  * Advisor: Prof. M. Khalid Jawed
 * University of California, San Diego (2019 - 2021)
   * M.Sc. in Mechanical and Aerospace Engineering
   * Advisor: Prof. Nicholas Gravish
