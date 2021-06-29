@@ -17,7 +17,7 @@ redirect_from:
 
 Recent News
 ======
-* June, 2021. I was awarded Honorable Mentions of outstanding poster presenttation in [The 9.5th international symposium on Adaptive Motion of Animals and Machines (AMAM2021)](https://amam2021.squarespace.com/). The content is visible [here](https://www.youtube.com/watch?v=sg_X8Jn4do8&t=4s).
+* June, 2021. I was awarded the Honorable Mention of the outstanding poster presentation in [The 9.5th international symposium on Adaptive Motion of Animals and Machines (AMAM2021)](https://amam2021.squarespace.com/). The content is visible [here](https://www.youtube.com/watch?v=sg_X8Jn4do8&t=4s).
 * June, 2021. One paper called "[Collective synchronization of undulatory movement through contact](https://journals.aps.org/prx/accepted/ee07bKb2M3f12909456811f34575a7e178c4843fc)" accepted to [Physical Review X](https://journals.aps.org/prx/).
 * May, 2021. I completed my master thesis defense "[Design principles for locomotion synchronization in undulatory robot groups](https://escholarship.org/uc/item/4842p306)" at UC San Diego.
 * May, 2021. One paper called "Synchronized swimming: adaptive gait synchronization through mechanical interactions instead of communication" accepted to [The 9.5th international symposium on Adaptive Motion of Animals and Machines (AMAM2021)](https://amam2021.squarespace.com/).
