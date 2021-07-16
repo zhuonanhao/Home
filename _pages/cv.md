@@ -18,6 +18,7 @@ Education
   * Advisor: Prof. M. Khalid Jawed
 * University of California, San Diego (2019 - 2021)
   * M.Sc. in Mechanical and Aerospace Engineering
+  * Thesis: Design principles for locomotion synchronization in undulatory robot groups
   * Advisor: Prof. Nicholas Gravish
 * University of Wollongong (2018 - 2019)
   * Exchange program, major in Mechatronics and Materials Engineering
@@ -44,10 +45,6 @@ Teaching
   * University of California, San Diego
   * Course: [MAE150 - Computer-Aided Design](https://www.ucsd.edu/catalog/courses/MAE.html)
   * Duty: Prepare homeworks, grade assignments, and help with office hours
-* Fall 2018: Teaching Assistant
-  * Beijing Institute of Technology
-  * Course: Linear and Nonlinear System
-  * Duty: Collect homeworks, grade assignments
   
 Skills
 ======
