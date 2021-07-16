@@ -7,6 +7,7 @@ author_profile: true
 Honors
 ======
 
+* **Honorable mention for outstanding poster in AMAM2021**,   2021
 * **Outstanding Graduates**,   2019
 * **Honorable Mention of Mathematical Contest in Modeling**,   2018
 * **Annual Merit Undergraduate** (top 1%),   2016, 2017
