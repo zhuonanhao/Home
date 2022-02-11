@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+* Start a relationship with Joyce Tan :D
 
 * My research interests lie in the general area of robotics, particularly in autonomous and adaptive control, multi-agent systems and deep learning, as well as their applications in swarm system, robot locomotion and bio-inspired robotics.
 
