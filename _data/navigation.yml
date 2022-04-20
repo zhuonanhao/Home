@@ -2,12 +2,12 @@
 main:
   - title: "CV"
     url: /cv/
+    
+  - title: "Publications"
+    url: /publications/
 
   - title: "Honors & Awards"
     url: /honors/    
-    
-  - title: "Research"
-    url: /portfolio/
     
   - title: "Coursework"
     url: /coursework/
