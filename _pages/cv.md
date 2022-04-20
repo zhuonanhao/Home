@@ -44,6 +44,10 @@ Teaching
   * University of California, Los Angeles
   * Course: MAE20 – Introduction to Computer Programming with MATLAB
 
+* Summer 2021: Tutor
+  * University of California, Los Angeles
+  * Course: MAE101 – Statics and Strength of Materials
+
 * Fall 2020: Teaching Assistant
   * University of California, San Diego
   * Course: [MAE150 - Computer-Aided Design](https://www.ucsd.edu/catalog/courses/MAE.html)
