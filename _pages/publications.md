@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-----------------------------------------   Journal   ----------------------------------------
+------------------------------------------   Journal   ------------------------------------------
 ======
 * Hao, Z., Zhou, W., & Gravish, N. (2022). Proprioceptive feedback design for gait synchronization in collective undulatory robots. Advanced Robotics, 1-16.  [(Article link)](https://www.tandfonline.com/doi/abs/10.1080/01691864.2022.2050810?journalCode=tadr20)
 * Zhou, W., Hao, Z., & Gravish, N. (2021). Collective synchronization of undulatory movement through contact. Physical Review X, 11(3), 031051. [(Article link)](https://journals.aps.org/prx/accepted/ee07bKb2M3f12909456811f34575a7e178c4843fc)
