@@ -19,9 +19,9 @@ Conference
 
 Thesis
 ======
-* May, 2021. I completed my master thesis defense "[Design principles for locomotion synchronization in undulatory robot groups](https://escholarship.org/uc/item/4842p306)" at UC San Diego.
+* Hao, Z. (2021). Design principles for locomotion synchronization in undulatory robot groups (Doctoral dissertation, UC San Diego). [(Article link)](https://escholarship.org/uc/item/4842p306)
 
 Manuscript
 ======
-* Zhou, W., Peralta, J. D., Hao, Z., & Gravish, N. (2021). Lateral contact yields longitudinal cohesion in active undulatory systems. arXiv preprint arXiv:2106.06122.[(Article link)](https://arxiv.org/abs/2106.06122)
+* Zhou, W., Peralta, J. D., Hao, Z., & Gravish, N. (2021). Lateral contact yields longitudinal cohesion in active undulatory systems. arXiv preprint arXiv:2106.06122.  [(Article link)](https://arxiv.org/abs/2106.06122)
 * Ren, L., & Hao, Z. (2020). A Simple Fix for Convolutional Neural Network via Coordinate Embedding. arXiv preprint arXiv:2003.10589. [(Article link)](https://arxiv.org/abs/2003.10589)
