@@ -1,14 +1,14 @@
 ---
-title: "Proprioceptive feedback design for gait synchronization in collective undulatory robots"
+title: "Paper Title Number 1"
 collection: publications
-permalink: https://doi.org/10.1080/01691864.2022.2050810
-excerpt: 'The collective movement of animals has long been a source of inspiration for multi-agent swarm robotics. One of the fundamental goals for swarm robotics study is to understand how effective and robust collective behaviors can emerge from simple interaction principles. When animal or robot collectives are in high-density configurations the ability for visual or auditory sensing is diminished and the opportunities for interacting through mechanical contact are enhanced. In this paper, we study how robots that move through lateral body undulation in close proximity are capable of synchronizing their oscillatory gaits through contact interactions between adjacent robots. Critically, gait phase synchronization occurs without the requirement for robot-robot communication, and instead can be engineered as an emergent property of the robot control system. We present a proprioceptive feedback control system that generates collective gait phase synchronization of undulatory robots in experiment and simulation. We first validate this control system using a simple one-dimensional toy model to demonstrate how proprioceptive feedback governs phase synchronization. Simulations and experiments with undulatory three-link robots further demonstrate how phase synchronization can be controlled. Lastly, we demonstrate that robot pairs moving in a confined tunnel can synchronize their movements which leads to faster group locomotion through confined spaces.'
-date: 2022-02
-venue: Advanced Robotics (TADR)
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-The collective movement of animals has long been a source of inspiration for multi-agent swarm robotics. One of the fundamental goals for swarm robotics study is to understand how effective and robust collective behaviors can emerge from simple interaction principles. When animal or robot collectives are in high-density configurations the ability for visual or auditory sensing is diminished and the opportunities for interacting through mechanical contact are enhanced. In this paper, we study how robots that move through lateral body undulation in close proximity are capable of synchronizing their oscillatory gaits through contact interactions between adjacent robots. Critically, gait phase synchronization occurs without the requirement for robot-robot communication, and instead can be engineered as an emergent property of the robot control system. We present a proprioceptive feedback control system that generates collective gait phase synchronization of undulatory robots in experiment and simulation. We first validate this control system using a simple one-dimensional toy model to demonstrate how proprioceptive feedback governs phase synchronization. Simulations and experiments with undulatory three-link robots further demonstrate how phase synchronization can be controlled. Lastly, we demonstrate that robot pairs moving in a confined tunnel can synchronize their movements which leads to faster group locomotion through confined spaces.
+This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
