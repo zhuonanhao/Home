@@ -28,7 +28,6 @@ Education
   * B.Sc. in Vehiclce Engineering 
   * Advisor: Prof. Xueyuan Li
 
-
 Training
 ======
 * Summer 2020: Graduate Research Assistant
@@ -41,10 +40,13 @@ Training
   
 Teaching
 ======
+* Winter 2022: Teaching Assistant
+  * University of California, Los Angeles
+  * Course: MAE20 – Introduction to Computer Programming with MATLAB
+
 * Fall 2020: Teaching Assistant
   * University of California, San Diego
   * Course: [MAE150 - Computer-Aided Design](https://www.ucsd.edu/catalog/courses/MAE.html)
-  * Duty: Prepare homeworks, grade assignments, and help with office hours
   
 Skills
 ======
