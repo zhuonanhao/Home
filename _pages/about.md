@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* Start a relationship with Joyce Tan :D
-
 * My research interests lie in the general area of robotics, particularly in autonomous and adaptive control, multi-agent systems and deep learning, as well as their applications in swarm system, robot locomotion and bio-inspired robotics.
 
 * I received my master degree in the [Department of Mechanical and Aerospace Engineering](http://maeweb.ucsd.edu/) at [UC San Diego](https://ucsd.edu/) in June 2021, advised by Prof. [Nicholas Gravish](http://web.eng.ucsd.edu/~ngravish/) in [Gravish lab](http://gravishlab.ucsd.edu/index.html). 
@@ -18,7 +16,7 @@ redirect_from:
 
 Recent News
 ======
-* Febuary, 2022. One paper called "[Proprioceptive feedback design for gait synchronization in collective undulatory robots]()" accepted to [Advanced Robotics](https://www.tandfonline.com/journals/tadr20?gclid=Cj0KCQiAr5iQBhCsARIsAPcwROPx0fQQGRYkynxLfW8KOGzG-T363Fj21y7_Ae4xTvXkldOkHXp2rQEaAqzUEALw_wcB).
+* Febuary, 2022. One paper called "[Proprioceptive feedback design for gait synchronization in collective undulatory robots](https://www.tandfonline.com/doi/abs/10.1080/01691864.2022.2050810?journalCode=tadr20)" accepted to [Advanced Robotics](https://www.tandfonline.com/journals/tadr20?gclid=Cj0KCQiAr5iQBhCsARIsAPcwROPx0fQQGRYkynxLfW8KOGzG-T363Fj21y7_Ae4xTvXkldOkHXp2rQEaAqzUEALw_wcB).
 * June, 2021. I was awarded the Honorable Mention of the outstanding poster presentation in [The 9.5th international symposium on Adaptive Motion of Animals and Machines (AMAM2021)](https://amam2021.squarespace.com/). The content is visible [here](https://www.youtube.com/watch?v=sg_X8Jn4do8&t=4s).
 * June, 2021. One paper called "[Collective synchronization of undulatory movement through contact](https://journals.aps.org/prx/accepted/ee07bKb2M3f12909456811f34575a7e178c4843fc)" accepted to [Physical Review X](https://journals.aps.org/prx/).
 * May, 2021. I completed my master thesis defense "[Design principles for locomotion synchronization in undulatory robot groups](https://escholarship.org/uc/item/4842p306)" at UC San Diego.
