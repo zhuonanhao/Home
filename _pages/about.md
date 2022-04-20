@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* My research interests lie in the general area of robotics, particularly in autonomous and adaptive control, multi-agent systems and deep learning, as well as their applications in swarm system, robot locomotion and bio-inspired robotics.
+* My research interests lie in the general area of robotics, particularly in soft robotics, multi-agent systems and deep learning.
 
 * I am a PhD student in [Department of Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at [UC Los Angeles](https://www.ucla.edu/), advised by Prof. [M. Khalid Jawed](http://www.khalidjawed.com/) in [Structures-computer Interaction Lab](https://structures.computer/).
 
