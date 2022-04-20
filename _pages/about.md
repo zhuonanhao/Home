@@ -16,6 +16,7 @@ redirect_from:
 
 Recent News
 ======
+* April, 2022. One paper called "[Lateral contact yields longitudinal cohesion in active undulatory systems]()" accepted to [Physical Review E](https://journals.aps.org/pre/).
 * Febuary, 2022. One paper called "[Proprioceptive feedback design for gait synchronization in collective undulatory robots](https://www.tandfonline.com/doi/abs/10.1080/01691864.2022.2050810?journalCode=tadr20)" accepted to [Advanced Robotics](https://www.tandfonline.com/journals/tadr20?gclid=Cj0KCQiAr5iQBhCsARIsAPcwROPx0fQQGRYkynxLfW8KOGzG-T363Fj21y7_Ae4xTvXkldOkHXp2rQEaAqzUEALw_wcB).
 * June, 2021. I was awarded the Honorable Mention of the outstanding poster presentation in [The 9.5th international symposium on Adaptive Motion of Animals and Machines (AMAM2021)](https://amam2021.squarespace.com/). The content is visible [here](https://www.youtube.com/watch?v=sg_X8Jn4do8&t=4s).
 * June, 2021. One paper called "[Collective synchronization of undulatory movement through contact](https://journals.aps.org/prx/accepted/ee07bKb2M3f12909456811f34575a7e178c4843fc)" accepted to [Physical Review X](https://journals.aps.org/prx/).
