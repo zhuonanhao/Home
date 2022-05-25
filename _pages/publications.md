@@ -20,7 +20,7 @@ Conference
 
 Thesis
 ======
-* **Hao, Z.** (2021). Design principles for locomotion synchronization in undulatory robot groups (Doctoral dissertation, UC San Diego). [(Article link)](https://escholarship.org/uc/item/4842p306)
+* **Hao, Z.** (2021). Design principles for locomotion synchronization in undulatory robot groups (Master dissertation, UC San Diego). [(Article link)](https://escholarship.org/uc/item/4842p306)
 
 Manuscript
 ======
