@@ -78,18 +78,10 @@ M.Sc. in UC San Diego
 | MAE 208 | Mathematics for Engineers | Janet Becker | A |
 | MAE 280A | Linear Systems Theory | Robert R. Bitmead | A |
   
-| Term | Subject course | Instructor | Grade |
-| :----: | :----: | :----: | :----: |
-| Spring 2020 | MAE 281B - Nonlinear Control | Jorge Cortes | A<sup>+ |
-| Spring 2020 | MAE 288A - Optimal Control | William McEneaney |A |
-| Winter 2020 | MAE 281A - Nonlinear Systems | Miroslav Krstic | A<sup>- |
-| Fall 2019 | MAE 280A - Linear Systems Theory | Robert R. Bitmead | A |
-  
 ## Robotics
 
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
-| Winter 2020 | MAE 207 - Bioinspired Mobile Robotics | Nicholas Gravish | A |
 | Fall 2019 (SH) | MECH 326 - Dynamic of Mechanisms | Emre Sariyildiz | P |
 | Fall 2018 | AUTO 06085 - Intelligent Robot Design | Jifu Guan | 88 |
 
