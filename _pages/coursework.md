@@ -85,28 +85,16 @@ M.Sc. in UC San Diego
 Exchange in University of Wollongong
 ======
   
-## Robotics
+## Autumn 2019
 
-| Term | Subject course | Instructor | Grade |
+| Code | Subject | Instructor | Mark/Grade |
 | :----: | :----: | :----: | :----: |
-| Fall 2019 (SH) | MECH 326 - Dynamic of Mechanisms | Emre Sariyildiz | P |
-| Fall 2018 | AUTO 06085 - Intelligent Robot Design | Jifu Guan | 88 |
-
-*[SH]: Southern Hemisphere  
-*[P]: Pass  
-*[88]: Out of 100
+| ENGG 456 | Engineering Project A | Weihua Li | 81/Distinction |
+| ENGG 457 | Engineering Project B | Weihua Li | 80/Distinction |
+| JAPA 141 | Beginner Japanese 1 | Ritsuko Saito | 89/High Distinction |
+| MECH 326 | Dynamic of Mechanisms | Emre Sariyildiz | 56/Pass |
 
 <br/>
   
 B.Sc. in Beijing Institute of Technology
 ======
-
-| Term | Subject course | Instructor | Grade |
-| :----: | :----: | :----: | :----: |
-| Fall 2017 | MAT 060780 - Fluid Mechanics | Zhanzhong Han | 94 |
-| Spring 2017 | MAT 06070 - Material Mechanics | Xiaoli Wang | 100 |
-| Fall 2016 | MAT 06076 - Theoretical Mechanics | Qiang Zhang | 82 |
-
-*[94]: Out of 100
-*[100]: Out of 100
-*[82]: Out of 100
