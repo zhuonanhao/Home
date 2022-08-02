@@ -30,6 +30,10 @@ Education
 
 Training
 ======
+* Fall 2022: Conference Organizer
+  * University of California, Los Angeles
+  * Conference: Southern California Robotics Symposium
+
 * Summer 2020: Graduate Research Assistant
   * University of California, San Diego
   * Research: Synchronization behavior in swarm robotics system and micro-robot design 
