@@ -31,9 +31,10 @@ Ph.D. in UC Los Angeles
   
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
+| A&O SCI 204 | Introduction to Machine Learning for Physical Sciences | Jacob Bortnik | B<sup>+ |
 | MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
-| MAE 263A | Kinematics of Robotic Systems | Dennis Hong | A<sup>+ |
-| MAE 294A | Compliant Mechanism Design | Jonathan Hopkins | A<sup>- |
+| MAE 263A | Kinematics of Robotic Systems | Dennis Hong | A |
+| MAE 495 | Teaching Assistant Training Seminar | Eylul Simsek | S |
   
 ## Deep Learning
 
