@@ -52,7 +52,8 @@ Teaching
   * University of California, San Diego
   * Course: [MAE150 - Computer-Aided Design](https://www.ucsd.edu/catalog/courses/MAE.html)
   
-<!-- Skills
+<!-- 
+Skills
 ======
 * Python (Tensorflow, [Pybullet](https://pybullet.org/wordpress/), ...)
 * Matlab & Simulink (Simscape, [DLTdv](http://biomech.web.unc.edu/dltdv/), ...)
@@ -70,6 +71,7 @@ Prefessional membership
 ======
 * American Physical Society
 
+<!-- 
 Outreach
 ======
 * Science Outreach about Magnetism in high school, 2017
@@ -77,3 +79,4 @@ Outreach
 * "BIT Tell You Story" School Visit Program, 2016
 * Memorial Talk for Veteran, 2015
 * ICRC Student Volunteer, 2015
+-->
