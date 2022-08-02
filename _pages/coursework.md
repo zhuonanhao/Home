@@ -36,13 +36,24 @@ Core course
 
 Ph.D. in UC Los Angeles
 ======
+## Spring 2022
 
-| Term | Subject | Instructor | Grade |
+| Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
-| Spring 2022 | MAE 259B - Seminar: Advanced Topics in Solid Mechanics | M. Khalid Jawed | A<sup>+ |
-| Spring 2022 | MAE 260 - Current Topics in Mechanical Engineering | M. Khalid Jawed | A |
-| Spring 2022 | MAE 597B - Preparation for PhD Preliminary Examinations | N/A | A |
-| Spring 2022 | MAE C263C - Control of Robotic Systems | Nuno Vasconcelos | Veronica Santos |
+| MAE 259B | Seminar: Advanced Topics in Solid Mechanics | M. Khalid Jawed | A<sup>+ |
+| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | A |
+| MAE 597B | Preparation for PhD Preliminary Examinations | N/A | A |
+| MAE 263C | Control of Robotic Systems | Nuno Vasconcelos | Veronica Santos |
+  
+ 
+## Winter 2022
+
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| MAE 259B | Seminar: Advanced Topics in Solid Mechanics | M. Khalid Jawed | A<sup>+ |
+| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | A |
+| MAE 597B | Preparation for PhD Preliminary Examinations | N/A | A |
+| MAE 263C | Control of Robotic Systems | Nuno Vasconcelos | Veronica Santos |
   
   
 ## Deep Learning
