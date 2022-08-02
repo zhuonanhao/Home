@@ -65,6 +65,10 @@ Leadership
 ======
 * Organizer of [Southern California Robotics Symposium 2022, UCLA](https://www.scr.ucla.edu/)
 
+Prefessional membership
+======
+* American Physical Society
+
 Outreach
 ======
 * Science Outreach about Magnetism in high school, 2017
