@@ -52,7 +52,7 @@ Teaching
   * University of California, San Diego
   * Course: [MAE150 - Computer-Aided Design](https://www.ucsd.edu/catalog/courses/MAE.html)
   
-<!-- Skills -->
+<!-- Skills
 ======
 * Python (Tensorflow, [Pybullet](https://pybullet.org/wordpress/), ...)
 * Matlab & Simulink (Simscape, [DLTdv](http://biomech.web.unc.edu/dltdv/), ...)
