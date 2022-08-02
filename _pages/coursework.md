@@ -9,6 +9,7 @@ author_profile: true
 
 Ph.D. in UC Los Angeles
 ======
+
 ## Spring 2022
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
