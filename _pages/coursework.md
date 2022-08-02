@@ -91,8 +91,17 @@ Exchange in University of Wollongong
 | :----: | :----: | :----: | :----: |
 | ENGG 456 | Engineering Project A | Weihua Li | 81/Distinction |
 | ENGG 457 | Engineering Project B | Weihua Li | 80/Distinction |
-| JAPA 141 | Beginner Japanese 1 | Ritsuko Saito | 89/High Distinction |
+| JAPA 141 | Beginner Japanese 1 | Ritsuko Saito | 89/High Dist. |
 | MECH 326 | Dynamic of Mechanisms | Emre Sariyildiz | 56/Pass |
+  
+## Spring 2018
+
+| Code | Subject | Instructor | Mark/Grade |
+| :----: | :----: | :----: | :----: |
+| ENGG 378 | Sustainable Energy Technologies | Brad Stappenbelt | 75/Distinction |
+| MECH 372 | Solids Handling and Process Engineering | David Hastie | 73/Credit |
+| MECH 423 | Design for Manufacturing | Zhengyi Jiang | 85/High Dist. |
+| SCIE 103 | Climate Change | Colin Woodroffe | 75/Distinction |
 
 <br/>
   
