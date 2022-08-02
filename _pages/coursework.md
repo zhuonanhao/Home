@@ -11,6 +11,7 @@ Ph.D. in UC Los Angeles
 ======
 
 ## Spring 2022
+
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
 | MAE 259B | Seminar: Advanced Topics in Solid Mechanics | M. Khalid Jawed | A |
@@ -19,13 +20,20 @@ Ph.D. in UC Los Angeles
 | MAE 597B | Preparation for PhD Preliminary Examinations | M. Khalid Jawed | S |
 
 ## Winter 2022
+
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
 | MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
 | MAE 263B | Dynamics of Robotic Systems | Jacob Rosen | A<sup>+ |
 | MAE 294A | Compliant Mechanism Design | Jonathan Hopkins | A<sup>- |
 
+## Fall 2021
   
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
+| MAE 263A | Kinematics of Robotic Systems | Dennis Hong | A<sup>+ |
+| MAE 294A | Compliant Mechanism Design | Jonathan Hopkins | A<sup>- |
   
 ## Deep Learning
 
