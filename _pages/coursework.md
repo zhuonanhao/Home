@@ -36,6 +36,8 @@ Ph.D. in UC Los Angeles
 | MAE C263A | Kinematics of Robotic Systems | Dennis Hong | A |
 | MAE 495 | Teaching Assistant Training Seminar | Eylul Simsek | S |
 
+<br/>
+
 M.Sc. in UC San Diego
 ======
 
