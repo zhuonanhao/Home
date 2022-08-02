@@ -107,3 +107,14 @@ Exchange in University of Wollongong
   
 B.Sc. in Beijing Institute of Technology
 ======
+  
+### Autumn 2015
+
+| Subject | Mark/Grade |
+| :----: | :----: |
+| Physical Education | 59 |
+| College Chemistry | 59 |
+| Law of Intellectual Property Rights | 59 |
+| Calculus | 59 |
+| Military Theory | 59 |
+| Military Training | 59 |
