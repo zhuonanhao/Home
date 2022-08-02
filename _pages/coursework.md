@@ -79,6 +79,11 @@ M.Sc. in UC San Diego
 | ECE 290 | Graduate Seminar on Current ECE Research | N/A | S |
 | MAE 208 | Mathematics for Engineers | Janet Becker | A |
 | MAE 280A | Linear Systems Theory | Robert R. Bitmead | A |
+
+<br/>
+  
+Exchange in University of Wollongong
+======
   
 ## Robotics
 
@@ -91,7 +96,10 @@ M.Sc. in UC San Diego
 *[P]: Pass  
 *[88]: Out of 100
 
-## Material & Mechanics
+<br/>
+  
+B.Sc. in Beijing Institute of Technology
+======
 
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
