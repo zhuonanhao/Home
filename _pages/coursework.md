@@ -110,7 +110,7 @@ B.Sc. in Beijing Institute of Technology
   
 ### Spring 2016
 
-| Subject | Mark/Grade |
+| Subject | Mark |
 | :----: | :----: |
 | Physical Education | 87 |
 | Calculus | 96 |
@@ -124,7 +124,7 @@ B.Sc. in Beijing Institute of Technology
   
 ### Autumn 2015
 
-| Subject | Mark/Grade |
+| Subject | Mark |
 | :----: | :----: |
 | Physical Education | 89 |
 | College Chemistry | 95 |
