@@ -108,6 +108,7 @@ Exchange in University of Wollongong
 B.Sc. in Beijing Institute of Technology
 ======
 
+<!--    
 ### Spring 2018
 
 | Subject | Mark |
@@ -202,4 +203,72 @@ B.Sc. in Beijing Institute of Technology
 | China's Modern & Contemporary History Outline | 98 |
 | Mechanical Graphing | 92 |
 | Life Science Foundation | 84 |
+-->
   
+### Spring 2018
+
+| Subject | Mark |
+| :----: | :----: |
+| Electronic Information Technology for Vehicle | 87 |
+| Automobile Engine Construction & Principle | 77 |
+| Hydraulic & Hydrodynamic Transmission | 80 |
+| Intelligent Robot Originality & Design | 88 |
+  
+### Autumn 2017
+
+| Subject | Mark |
+| :----: | :----: |
+| Electrotechnics & Electronics Technology | 88 |
+| Plane Mechanism Creative Design | 86 |
+| Fluid Mechanics | 94 |
+| Mechanical Optimization Design | 99 |
+| Fundamentals of Hot Working | 80 |
+| Introduction to Mechanical Manufacturing | 90 |
+| Principle of Finite Element Method & Application | 89 |
+| Comprehensive Design of Mechanical Design | 88 |
+| Mechanical Design | 86 |
+| Automatic Control Theory | 90 |
+| Basic Mechanical Vibration | 69 |
+  
+### Spring 2017
+
+| Subject | Mark |
+| :----: | :----: |
+| Fundamentals of Engineering Materials | 90 |
+| Material Mechanics | 100 |
+| Machinery Principle | 86 |
+| Geometric Norm | 82 |
+| Electrotechnics & Electronics Technology | 88 |
+| Fundamentals of Electromechanical Control Technology | 85 |
+  
+### Autumn 2016
+
+| Subject | Mark |
+| :----: | :----: |
+| Experiment of General Physics | 89 |
+| College Physics | 92 |
+| Mechanical CAD | 91 |
+| Theoretical Mechanics | 82 |
+| Training of Engineering Software | 88 |
+| Probability & Mathematical Statistics | 94 |
+| Computer Science & Programming | 90 |
+| Electronic Practice | 95 |
+  
+### Spring 2016
+
+| Subject | Mark |
+| :----: | :----: |
+| Calculus | 96 |
+| Mechanical Graphing | 87 |
+| Experiment of General Physics | 76 |
+| Linear Algebra | 99 |
+| College Physics | 82 |
+  
+### Autumn 2015
+
+| Subject | Mark |
+| :----: | :----: |
+| College Chemistry | 95 |
+| Calculus | 90 |
+| Mechanical Graphing | 92 |
+| Life Science Foundation | 84 |
