@@ -44,6 +44,23 @@ Ph.D. in UC Los Angeles
 | Winter 2020 | ECE 271B - Statistical Learning II | Manuela Vasconcelos | A |
 | Fall 2019 | ECE 271A - Statistical Learning I | Nuno Vasconcelos |A |
 
+M.Sc. in UC San Diego
+======
+
+## Winter 2021
+  
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| MAE 299 | Graduate Research | Nicholas Gravish | S |
+
+## Fall 2020
+  
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| MAE 247 | Cooperative Control of Multi-agent Systems | Sonia Martinez | A<sup>+ |
+| MAE 283A | Parametric Identification: Theory and Methods  | Raymond de Callafon | A |
+| MAE 299 | Graduate Research | Nicholas Gravish | S |
+  
 ## Control Theory
 
 | Term | Subject course | Instructor | Grade |
