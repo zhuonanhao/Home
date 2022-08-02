@@ -112,9 +112,16 @@ B.Sc. in Beijing Institute of Technology
 
 | Subject | Mark/Grade |
 | :----: | :----: |
-| Physical Education | 59 |
-| College Chemistry | 59 |
-| Law of Intellectual Property Rights | 59 |
-| Calculus | 59 |
-| Military Theory | 59 |
-| Military Training | 59 |
+| Physical Education | 89 |
+| College Chemistry | 95 |
+| Law of Intellectual Property Rights | 80 |
+| Calculus | 90 |
+| Military Theory | 82 |
+| Military Training | 95 |
+| Thought & Moral Training & Fundamentals of Law | 90 |
+| University Students' Psychological Quality & Development | 93 |
+| English for Academic Purposes | 73 |
+| China's Modern & Contemporary History Outline | 98 |
+| Mechanical Graphing | 92 |
+| Life Science Foundation | 84 |
+  
