@@ -27,13 +27,9 @@ Education
 * Beijing Institute of Technology (2015 - 2019)
   * B.Sc. in Vehiclce Engineering 
   * Advisor: Prof. Xueyuan Li
-
+ 
 Training
 ======
-* Fall 2022: Conference Organizer
-  * University of California, Los Angeles
-  * Conference: Southern California Robotics Symposium
-
 * Summer 2020: Graduate Research Assistant
   * University of California, San Diego
   * Research: Synchronization behavior in swarm robotics system and micro-robot design 
@@ -64,6 +60,10 @@ Skills
 * Finite Element Analysis: ANSYS, COMSOL, ...
 * Operation System: [ROS](https://www.ros.org/), Ubuntu, ...
 * First Person Shooter (•‾̑⌣‾̑•)✧˖°: Counter-Strike 1.6, [CrossFire](https://www.z8games.com/), ...
+
+Leadership
+======
+* Organizer of [Southern California Robotics Symposium 2022, UCLA](https://www.scr.ucla.edu/)
 
 Outreach
 ======
