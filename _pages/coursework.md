@@ -19,7 +19,7 @@ Ph.D. in UC Los Angeles
 | MAE C263C | Control of Robotic Systems | Veronica Santos | A |
 | MAE 597B | Preparation for PhD Preliminary Examinations | M. Khalid Jawed | S |
 
-## Winter 2022
+### Winter 2022
 
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
@@ -27,7 +27,7 @@ Ph.D. in UC Los Angeles
 | MAE C263B | Dynamics of Robotic Systems | Jacob Rosen | A<sup>+ |
 | MAE C294A | Compliant Mechanism Design | Jonathan Hopkins | A<sup>- |
 
-## Fall 2021
+### Fall 2021
   
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
@@ -41,13 +41,13 @@ Ph.D. in UC Los Angeles
 M.Sc. in UC San Diego
 ======
 
-## Winter 2021
+### Winter 2021
   
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
 | MAE 299 | Graduate Research | Nicholas Gravish | S |
 
-## Fall 2020
+### Fall 2020
   
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
@@ -55,7 +55,7 @@ M.Sc. in UC San Diego
 | MAE 283A | Parametric Identification: Theory and Methods  | Raymond de Callafon | A |
 | MAE 299 | Graduate Research | Nicholas Gravish | S |
   
-## Spring 2020
+### Spring 2020
   
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
@@ -63,7 +63,7 @@ M.Sc. in UC San Diego
 | MAE 281B | Nonlinear Control  | Jorge Cortes | A<sup>+ |
 | MAE 288A | Optimal Control | William McEneaney | A |
   
-## Winter 2020
+### Winter 2020
   
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
@@ -71,7 +71,7 @@ M.Sc. in UC San Diego
 | MAE 207 | Bioinspired Mobile Robotics | Nicholas Gravish | A |
 | MAE 281A | Nonlinear Systems | Miroslav Krstic | A<sup>- |
   
-## Fall 2019
+### Fall 2019
   
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
@@ -85,7 +85,7 @@ M.Sc. in UC San Diego
 Exchange in University of Wollongong
 ======
   
-## Autumn 2019
+### Autumn 2019
 
 | Code | Subject | Instructor | Mark/Grade |
 | :----: | :----: | :----: | :----: |
@@ -94,7 +94,7 @@ Exchange in University of Wollongong
 | JAPA 141 | Beginner Japanese 1 | Ritsuko Saito | 89/High Dist. |
 | MECH 326 | Dynamic of Mechanisms | Emre Sariyildiz | 56/Pass |
   
-## Spring 2018
+### Spring 2018
 
 | Code | Subject | Instructor | Mark/Grade |
 | :----: | :----: | :----: | :----: |
