@@ -16,7 +16,7 @@ Ph.D. in UC Los Angeles
 | :----: | :----: | :----: | :----: |
 | MAE 259B | Seminar: Advanced Topics in Solid Mechanics | M. Khalid Jawed | A |
 | MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
-| MAE 263C | Control of Robotic Systems | Veronica Santos | A |
+| MAE C263C | Control of Robotic Systems | Veronica Santos | A |
 | MAE 597B | Preparation for PhD Preliminary Examinations | M. Khalid Jawed | S |
 
 ## Winter 2022
@@ -24,8 +24,8 @@ Ph.D. in UC Los Angeles
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
 | MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
-| MAE 263B | Dynamics of Robotic Systems | Jacob Rosen | A<sup>+ |
-| MAE 294A | Compliant Mechanism Design | Jonathan Hopkins | A<sup>- |
+| MAE C263B | Dynamics of Robotic Systems | Jacob Rosen | A<sup>+ |
+| MAE C294A | Compliant Mechanism Design | Jonathan Hopkins | A<sup>- |
 
 ## Fall 2021
   
@@ -33,7 +33,7 @@ Ph.D. in UC Los Angeles
 | :----: | :----: | :----: | :----: |
 | A&O SCI 204 | Introduction to Machine Learning for Physical Sciences | Jacob Bortnik | B<sup>+ |
 | MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
-| MAE 263A | Kinematics of Robotic Systems | Dennis Hong | A |
+| MAE C263A | Kinematics of Robotic Systems | Dennis Hong | A |
 | MAE 495 | Teaching Assistant Training Seminar | Eylul Simsek | S |
   
 ## Deep Learning
