@@ -107,6 +107,38 @@ Exchange in University of Wollongong
   
 B.Sc. in Beijing Institute of Technology
 ======
+
+### Autumn 2017
+
+| Subject | Mark |
+| :----: | :----: |
+| Electrotechnics & Electronics Technology | 88 |
+| Plane Mechanism Creative Design | 86 |
+| Fluid Mechanics | 94 |
+| Mechanical Optimization Design | 99 |
+| Fundamentals of Hot Working | 80 |
+| Introduction to Mechanical Manufacturing | 90 |
+| Principle of Finite Element Method & Application | 89 |
+| Investigation | 91 |
+| Comprehensive Design of Mechanical Design | 88 |
+| Tank Science | 88 |
+| Mechanical Design | 86 |
+| Engineering Training (II) | 83 |
+| Automatic Control Theory | 90 |
+| Basic Mechanical Vibration | 69 |
+  
+### Spring 2017
+
+| Subject | Mark |
+| :----: | :----: |
+| Physical Education | 95 |
+| Fundamentals of Engineering Materials | 90 |
+| Material Mechanics | 100 |
+| Machinery Principle | 86 |
+| Incidental Music | 92 |
+| Geometric Norm | 82 |
+| Electrotechnics & Electronics Technology | 88 |
+| Fundamentals of Electromechanical Control Technology | 85 |
   
 ### Autumn 2016
 
