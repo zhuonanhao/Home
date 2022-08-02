@@ -14,16 +14,16 @@ Ph.D. in UC Los Angeles
 | :----: | :----: | :----: | :----: |
 | MAE 259B | Seminar: Advanced Topics in Solid Mechanics | M. Khalid Jawed | A |
 | MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
-| MAE 597B | Preparation for PhD Preliminary Examinations | M. Khalid Jawed | S |
 | MAE 263C | Control of Robotic Systems | Veronica Santos | A |
+| MAE 597B | Preparation for PhD Preliminary Examinations | M. Khalid Jawed | S |
 
 ## Winter 2022
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
-| MAE 259B | Seminar: Advanced Topics in Solid Mechanics | M. Khalid Jawed | A<sup>+ |
-| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | A |
-| MAE 597B | Preparation for PhD Preliminary Examinations | N/A | A |
-| MAE 263C | Control of Robotic Systems | Nuno Vasconcelos | Veronica Santos |
+| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
+| MAE 263B | Dynamics of Robotic Systems | Jacob Rosen | A<sup>+ |
+| MAE 294A | Compliant Mechanism Design | Jonathan Hopkins | A<sup>- |
+
   
   
 ## Deep Learning
