@@ -35,14 +35,6 @@ Ph.D. in UC Los Angeles
 | MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
 | MAE C263A | Kinematics of Robotic Systems | Dennis Hong | A |
 | MAE 495 | Teaching Assistant Training Seminar | Eylul Simsek | S |
-  
-## Deep Learning
-
-| Term | Subject course | Instructor | Grade |
-| :----: | :----: | :----: | :----: |
-| Spring 2020 | MAE 242 - Robot Motion Planning | Sonia Martinez |A<sup>+ |
-| Winter 2020 | ECE 271B - Statistical Learning II | Manuela Vasconcelos | A |
-| Fall 2019 | ECE 271A - Statistical Learning I | Nuno Vasconcelos |A |
 
 M.Sc. in UC San Diego
 ======
@@ -61,8 +53,31 @@ M.Sc. in UC San Diego
 | MAE 283A | Parametric Identification: Theory and Methods  | Raymond de Callafon | A |
 | MAE 299 | Graduate Research | Nicholas Gravish | S |
   
-## Control Theory
-
+## Spring 2020
+  
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| MAE 242 | Robot Motion Planning | Sonia Martinez | A<sup>+ |
+| MAE 281B | Nonlinear Control  | Jorge Cortes | A<sup>+ |
+| MAE 288A | Optimal Control | William McEneaney | A |
+  
+## Winter 2020
+  
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| ECE 271B | Statistical Learning II | Manuela Vasconcelos | A |
+| MAE 207 | Bioinspired Mobile Robotics | Nicholas Gravish | A |
+| MAE 281A | Nonlinear Systems | Miroslav Krstic | A<sup>- |
+  
+## Fall 2019
+  
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| ECE 271A | Statistical Learning I | Nuno Vasconcelos | A |
+| ECE 290 | Graduate Seminar on Current ECE Research | N/A | S |
+| MAE 208 | Mathematics for Engineers | Janet Becker | A |
+| MAE 280A | Linear Systems Theory | Robert R. Bitmead | A |
+  
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
 | Spring 2020 | MAE 281B - Nonlinear Control | Jorge Cortes | A<sup>+ |
