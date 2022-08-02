@@ -6,7 +6,7 @@ author_profile: true
 
 Recent News
 ======
-* September, 2022. [Southern California Robotics Symposium](https://www.scr.ucla.edu/) is held at UCLA.
+* September, 2022. I organized [Southern California Robotics Symposium 2022](https://www.scr.ucla.edu/) held in UC Los Angeles.
 * April, 2022. One paper called "[Lateral contact yields longitudinal cohesion in active undulatory systems](https://journals.aps.org/pre/accepted/ea079RacS5716d25438a1ea213b156d76804f81c7)" accepted to [Physical Review E](https://journals.aps.org/pre/).
 * March, 2022. I attended [APS March Meeting 2022](https://march.aps.org/) held in Chicago, IL, USA.
 * Febuary, 2022. One paper called "[Proprioceptive feedback design for gait synchronization in collective undulatory robots](https://www.tandfonline.com/doi/abs/10.1080/01691864.2022.2050810?journalCode=tadr20)" accepted to [Advanced Robotics](https://www.tandfonline.com/journals/tadr20?gclid=Cj0KCQiAr5iQBhCsARIsAPcwROPx0fQQGRYkynxLfW8KOGzG-T363Fj21y7_Ae4xTvXkldOkHXp2rQEaAqzUEALw_wcB).
