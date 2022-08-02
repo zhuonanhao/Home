@@ -108,6 +108,20 @@ Exchange in University of Wollongong
 B.Sc. in Beijing Institute of Technology
 ======
 
+### Spring 2018
+
+| Subject | Mark |
+| :----: | :----: |
+| Tank Science | 87 |
+| Disassembly & Assembly Practice | 90 |
+| Electronic Information Technology for Vehicle | 87 |
+| Automobile Engine Construction & Principle | 77 |
+| Driving Practice | 92 |
+| Marxist Basic Principles | 85 |
+| Modern Protection Technology | 94 |
+| Hydraulic & Hydrodynamic Transmission | 80 |
+| Intelligent Robot Originality & Design | 88 |
+  
 ### Autumn 2017
 
 | Subject | Mark |
