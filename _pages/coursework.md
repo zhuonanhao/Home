@@ -108,6 +108,20 @@ Exchange in University of Wollongong
 B.Sc. in Beijing Institute of Technology
 ======
   
+### Spring 2016
+
+| Subject | Mark/Grade |
+| :----: | :----: |
+| Physical Education | 87 |
+| Calculus | 96 |
+| English for Academic Purposes | 75 |
+| Mechanical Graphing | 87 |
+| Experiment of General Physics | 76 |
+| Linear Algebra | 99 |
+| Social Practice of Humanity | 95 |
+| The Road to Success: Future & Leadership Development Project | 96 |
+| College Physics | 82 |
+  
 ### Autumn 2015
 
 | Subject | Mark/Grade |
