@@ -108,6 +108,24 @@ Exchange in University of Wollongong
 B.Sc. in Beijing Institute of Technology
 ======
   
+### Autumn 2016
+
+| Subject | Mark |
+| :----: | :----: |
+| Physical Education | 85 |
+| Experiment of General Physics | 89 |
+| College Physics | 92 |
+| Mechanical CAD | 91 |
+| Lectures on Armored Vehicle Engineering | 80 |
+| Theoretical Mechanics | 82 |
+| Training of Engineering Software | 88 |
+| Probability & Mathematical Statistics | 94 |
+| Cultural Difference & Translation | 89 |
+| Appreciation of Chinese Traditional Opera | 96 |
+| Computer Science & Programming | 90 |
+| Electronic Practice | 95 |
+| Introduction to Mao Zedong Thoughts $ Theoretical System of The Chinese Characteristic Socialism | 96 |
+  
 ### Spring 2016
 
 | Subject | Mark |
