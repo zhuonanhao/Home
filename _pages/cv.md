@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download: [Curriculum_Vitae.pdf](https://zhuonan-hao.github.io/Homepage/files/Curriculum_Vitae.pdf)
+Download: [Curriculum_Vitae.pdf](https://zhuonanhao.github.io/Home/files/Curriculum_Vitae.pdf)
 
 Education
 ======
