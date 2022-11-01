@@ -9,6 +9,13 @@ author_profile: true
 
 Ph.D. in UC Los Angeles
 ======
+### Fall 2022
+
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | - |
+| ECE 236A | Linear Programming | Christina Fragouli | - |
+| MAE 271D | Special Topics in Dynamic Systems Control: Control & Trajectory Planning for Autonomous Aerial Systems | Brett Lopez | - |
 
 ### Spring 2022
 
