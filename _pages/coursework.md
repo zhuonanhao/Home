@@ -14,7 +14,7 @@ Ph.D. in UC Los Angeles
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
 | MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
-| ECE 236A | Linear Programming | Christina Fragouli | A- |
+| ECE 236A | Linear Programming | Christina Fragouli | A<sup>- |
 | MAE 597C | Preparation for Ph.D. Oral Qualifying Examination | M. Khalid Jawed | S |
 
 ### Spring 2022
