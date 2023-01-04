@@ -13,9 +13,9 @@ Ph.D. in UC Los Angeles
 
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
-| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | - |
-| ECE 236A | Linear Programming | Christina Fragouli | - |
-| MAE 271D | Special Topics in Dynamic Systems Control: Control & Trajectory Planning for Autonomous Aerial Systems | Brett Lopez | - |
+| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
+| ECE 236A | Linear Programming | Christina Fragouli | A- |
+| MAE 597C | Preparation for Ph.D. Oral Qualifying Examination | M. Khalid Jawed | S |
 
 ### Spring 2022
 
