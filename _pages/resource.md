@@ -7,15 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Ph.D. in UC Los Angeles
+Packages
 ======
-### Fall 2022
-
-| Code | Subject | Instructor | Grade |
-| :----: | :----: | :----: | :----: |
-| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
-| ECE 236A | Linear Programming | Christina Fragouli | A<sup>- |
-| MAE 597C | Preparation for Ph.D. Oral Qualifying Examination | M. Khalid Jawed | S |
+### Matlab
+[CVX Users's Guide](http://web.cvxr.com/cvx/doc/)
+[CVX Users's Guide](http://web.cvxr.com/cvx/doc/)
 
 ### Spring 2022
 
