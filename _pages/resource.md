@@ -21,10 +21,11 @@ Courses
 
 ### UCLA
 [ECE 236A - Linear Programming](http://www.seas.ucla.edu/~vandenbe/ee236a/ee236a.html) <br />
-[MAE 263B	- Dynamics of Robotic Systems](http://bionics.seas.ucla.edu/education/MAE_263D.html)
-  
-<br/>
-  
+[MAE 263B	- Dynamics of Robotic Systems](http://bionics.seas.ucla.edu/education/MAE_263D.html) <br/>
+
+### MIT
+[MIT OpenCourseWare](https://ocw.mit.edu/) <br />
+
 Tutorials
 ======
   
