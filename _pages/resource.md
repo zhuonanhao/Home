@@ -20,7 +20,7 @@ Courses
 ======
 
 ### UCLA
-[ECE236A - Linear Programming]([http://web.cvxr.com/cvx/doc/](http://www.seas.ucla.edu/~vandenbe/ee236a/ee236a.html)) <br />
+[ECE236A - Linear Programming](http://web.cvxr.com/cvx/doc/](http://www.seas.ucla.edu/~vandenbe/ee236a/ee236a.html) <br />
 [MAE 263B	- Dynamics of Robotic Systems](http://bionics.seas.ucla.edu/education/MAE_263D.html)
   
 <br/>
