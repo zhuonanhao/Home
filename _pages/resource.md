@@ -13,33 +13,8 @@ Packages
 [CVX Users's Guide](http://web.cvxr.com/cvx/doc/) <br />
 [CVX Users's Guide](http://web.cvxr.com/cvx/doc/)
 
-### Spring 2022
 
-| Code | Subject | Instructor | Grade |
-| :----: | :----: | :----: | :----: |
-| MAE 259B | Seminar: Advanced Topics in Solid Mechanics | M. Khalid Jawed | A |
-| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
-| MAE C263C | Control of Robotic Systems | Veronica Santos | A |
-| MAE 597B | Preparation for PhD Preliminary Examinations | M. Khalid Jawed | S |
 
-### Winter 2022
-
-| Code | Subject | Instructor | Grade |
-| :----: | :----: | :----: | :----: |
-| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
-| MAE C263B | Dynamics of Robotic Systems | Jacob Rosen | A<sup>+ |
-| MAE C294A | Compliant Mechanism Design | Jonathan Hopkins | A<sup>- |
-
-### Fall 2021
-  
-| Code | Subject | Instructor | Grade |
-| :----: | :----: | :----: | :----: |
-| A&O SCI 204 | Introduction to Machine Learning for Physical Sciences | Jacob Bortnik | B<sup>+ |
-| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
-| MAE C263A | Kinematics of Robotic Systems | Dennis Hong | A |
-| MAE 495 | Teaching Assistant Training Seminar | Eylul Simsek | S |
-
-<br/>
 
 Courses
 ======
@@ -112,7 +87,7 @@ Laboratory
 ======
 
 <!--    
-### Group
+### fes
 
 [Cheng Research Group](https://cheng.cems.umn.edu/)
 [Stocker lab](https://stockerlab.ethz.ch/)
