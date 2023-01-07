@@ -11,9 +11,9 @@ Packages
 ======
 ### Matlab
 [CVX Users's Guide](http://web.cvxr.com/cvx/doc/) <br />
-[CVX Users's Guide](http://web.cvxr.com/cvx/doc/)
 
-
+### Python
+[The Python Standard Library](https://docs.python.org/3/library/index.html)
 
 
 Courses
@@ -28,8 +28,9 @@ Courses
 Tutorials
 ======
   
-### Autumn 2019
-
+### Wemos D1 mini
+[Wemos D1 Mini WIFI Robot](https://www.instructables.com/Wemos-D1-Mini-WIFI-Robot-MQTT-UDP/) <br />
+[Wemos_D1_Motor_Shield](https://github.com/thomasfredericks/wemos_motor_shield)
 <br/>
   
 Laboratory
