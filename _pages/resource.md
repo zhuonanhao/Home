@@ -35,8 +35,6 @@ Tutorials
 Laboratory
 ======
 
-### fes
-
 [Cheng Research Group](https://cheng.cems.umn.edu/) <br />
 [Stocker lab](https://stockerlab.ethz.ch/) <br />
 [Structures-Computer Interaction Lab](https://structures.computer/) <br />
