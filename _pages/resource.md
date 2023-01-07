@@ -23,6 +23,7 @@ Courses
 ======
 
 ### UCLA
+[Discrete Simulation of Slender Structures and Soft Robots](https://structures.computer/slenderstructures) <br />
 [ECE 236A - Linear Programming](http://www.seas.ucla.edu/~vandenbe/ee236a/ee236a.html) <br />
 [MAE 263B	- Dynamics of Robotic Systems](http://bionics.seas.ucla.edu/education/MAE_263D.html) <br/>
 
@@ -44,6 +45,10 @@ Products
 
 ### Rethink robotics
 [Intera SDK](https://support.rethinkrobotics.com/support/solutions)
+
+### Camera
+[JeVois](https://www.jevoisinc.com/)
+
   
 Laboratory
 ======
