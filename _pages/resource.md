@@ -10,7 +10,7 @@ author_profile: true
 Packages
 ======
 ### Matlab
-[CVX Users's Guide](http://web.cvxr.com/cvx/doc/)
+[CVX Users's Guide](http://web.cvxr.com/cvx/doc/) <br />
 [CVX Users's Guide](http://web.cvxr.com/cvx/doc/)
 
 ### Spring 2022
@@ -41,7 +41,7 @@ Packages
 
 <br/>
 
-M.Sc. in UC San Diego
+Courses
 ======
 
 ### Winter 2021
@@ -108,23 +108,14 @@ Exchange in University of Wollongong
 
 <br/>
   
-B.Sc. in Beijing Institute of Technology
+Laboratory
 ======
 
 <!--    
-### Spring 2018
+### Group
 
-| Subject | Mark |
-| :----: | :----: |
-| Tank Science | 87 |
-| Disassembly & Assembly Practice | 90 |
-| Electronic Information Technology for Vehicle | 87 |
-| Automobile Engine Construction & Principle | 77 |
-| Driving Practice | 92 |
-| Marxist Basic Principles | 85 |
-| Modern Protection Technology | 94 |
-| Hydraulic & Hydrodynamic Transmission | 80 |
-| Intelligent Robot Originality & Design | 88 |
+[Cheng Research Group](https://cheng.cems.umn.edu/)
+[Stocker lab](https://stockerlab.ethz.ch/)
   
 ### Autumn 2017
 
