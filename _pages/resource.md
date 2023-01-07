@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /coursework/
+permalink: /resource/
 author_profile: true
 ---
 
