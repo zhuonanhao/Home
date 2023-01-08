@@ -16,7 +16,7 @@ Packages/Libraries
 [The Python Standard Library](https://docs.python.org/3/library/index.html)
 
 ### JavaScript
-[Threejs](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+[Three.js](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
 ### Git
 [Common Git Commands](http://guides.beanstalkapp.com/version-control/common-git-commands.html)
@@ -24,9 +24,13 @@ Packages/Libraries
 ### FFMPEG
 [19 FFmpeg Commands For All Needs](https://catswhocode.com/ffmpeg-commands/)
 
+### SOFA
+[Home](https://www.sofa-framework.org/)
+
 Knowledge base
 ======
 [Buckingham π theorem](http://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/fprops/dimension/node9.html) <br />
+[Soft Robotics Toolkit](https://softroboticstoolkit.com/home)
 
 
 Paper with codes
