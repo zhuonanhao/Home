@@ -31,6 +31,7 @@ Knowledge base
 ======
 [Buckingham π theorem](http://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/fprops/dimension/node9.html) <br />
 [Soft Robotics Toolkit](https://softroboticstoolkit.com/home)
+[Curated list of robotics resources](https://github.com/kiloreux/awesome-robotics)
 
 
 Paper with codes
