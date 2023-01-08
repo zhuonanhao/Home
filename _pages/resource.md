@@ -18,6 +18,12 @@ Packages/Libraries
 ### JavaScript
 [Threejs](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
+### Git
+[Common Git Commands](http://guides.beanstalkapp.com/version-control/common-git-commands.html)
+
+### FFMPEG
+[19 FFmpeg Commands For All Needs](https://catswhocode.com/ffmpeg-commands/)
+
 Knowledge base
 ======
 [Buckingham π theorem](http://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/fprops/dimension/node9.html) <br />
@@ -53,6 +59,8 @@ Products
 
 ### Rethink robotics
 [Intera SDK](https://support.rethinkrobotics.com/support/solutions)
+[Setup](https://sdk.rethinkrobotics.com/intera/Workstation_Setup)
+[Main](https://sdk.rethinkrobotics.com/intera/Main_Page)
 
 ### Camera
 [JeVois](https://www.jevoisinc.com/)
