@@ -11,6 +11,7 @@ Packages/Libraries
 ======
 ### Matlab
 [CVX Users's Guide](http://web.cvxr.com/cvx/doc/) <br />
+[CasADi](https://web.casadi.org/docs/) <br />
 
 ### Python
 [The Python Standard Library](https://docs.python.org/3/library/index.html)
