@@ -62,18 +62,21 @@ Products
 
 ### [Wemos](https://www.wemos.cc/en/latest/index.html)
 [Wemos D1 Motor Shield](https://www.amazon.com/dp/B07P6LPY2C)<br/>
-
-[Wemos D1 Mini WIFI Robot](https://www.instructables.com/Wemos-D1-Mini-WIFI-Robot-MQTT-UDP/) <br />
-
+[Wemos D1 Mini + Motor Shield + Encoder](https://www.instructables.com/Wemos-D1-Mini-WIFI-Robot-MQTT-UDP/) <br />
 [Wemos D1 Motor Shield Firmware](https://github.com/thomasfredericks/wemos_motor_shield)<br/>
+[Micro Metal Gearmotors](https://www.pololu.com/category/60/micro-metal-gearmotors)<br/>
 
+### [Arduino](https://www.arduino.cc/)
+[Project](https://projecthub.arduino.cc/)<br/>
+[Board](https://store-usa.arduino.cc/collections/boards)<br/>
+[Arduino + DC motors + L298N](https://ozeki.hu/p_2983-how-to-use-dc-motors-in-arduino.html)<br/>
 
-[Micro Metal Gearmotors](https://www.pololu.com/category/60/micro-metal-gearmotors)
+### [Adafruit](https://www.adafruit.com/)
+[Project](https://learn.adafruit.com/)<br/>
 
 ### [Rethink robotics](https://sdk.rethinkrobotics.com/intera/Main_Page)
 [Intera SDK](https://support.rethinkrobotics.com/support/solutions)
 [Setup](https://sdk.rethinkrobotics.com/intera/Workstation_Setup)
-[Main](https://sdk.rethinkrobotics.com/intera/Main_Page)
 
 ### Camera
 [JeVois](https://www.jevoisinc.com/)
