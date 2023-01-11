@@ -60,6 +60,8 @@ Courses
 Products
 ======
   
+Products
+==
 ### Wemos D1 mini
 [Wemos D1 Mini WIFI Robot](https://www.instructables.com/Wemos-D1-Mini-WIFI-Robot-MQTT-UDP/) <br />
 [Wemos D1 Motor Shield](https://github.com/thomasfredericks/wemos_motor_shield)<br/>
