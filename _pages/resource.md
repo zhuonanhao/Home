@@ -75,9 +75,6 @@ Products
 [Project](https://learn.adafruit.com/)<br/>
 [Adafruit LSM6DS3TR-C 6-DoF Accel + Gyro IMU](https://www.adafruit.com/product/4503)
 
-
-
-
 ### [Rethink robotics](https://sdk.rethinkrobotics.com/intera/Main_Page)
 [Intera SDK](https://support.rethinkrobotics.com/support/solutions)
 [Setup](https://sdk.rethinkrobotics.com/intera/Workstation_Setup)
