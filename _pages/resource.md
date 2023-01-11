@@ -59,12 +59,18 @@ Courses
 
 Products
 ======
-  
-Products
-==
-### Wemos D1 mini
+
+### [Wemos](https://www.wemos.cc/en/latest/index.html)
+[Mainpage](https://www.wemos.cc/en/latest/index.html)
+[Wemos D1 Motor Shield](https://www.amazon.com/dp/B07P6LPY2C)<br/>
+
 [Wemos D1 Mini WIFI Robot](https://www.instructables.com/Wemos-D1-Mini-WIFI-Robot-MQTT-UDP/) <br />
-[Wemos D1 Motor Shield](https://github.com/thomasfredericks/wemos_motor_shield)<br/>
+
+[Wemos D1 Motor Shield Firmware](https://github.com/thomasfredericks/wemos_motor_shield)<br/>
+
+
+[Micro Metal Gearmotors](https://www.pololu.com/category/60/micro-metal-gearmotors)
+[]
 
 ### Rethink robotics
 [Intera SDK](https://support.rethinkrobotics.com/support/solutions)
@@ -73,6 +79,7 @@ Products
 
 ### Camera
 [JeVois](https://www.jevoisinc.com/)
+[Logitech C922x Pro Stream Webcam](https://www.amazon.com/dp/B01LXCDPPK/)
 
   
 Laboratory
