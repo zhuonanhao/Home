@@ -14,26 +14,26 @@ Packages/Libraries
 [CasADi](https://web.casadi.org/docs/) <br />
 
 ### Python
-[The Python Standard Library](https://docs.python.org/3/library/index.html)
+[The Python Standard Library](https://docs.python.org/3/library/index.html)<br/>
 
 ### JavaScript
-[Three.js](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+[Three.js](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)<br/>
 
 ### Git
-[Common Git Commands](http://guides.beanstalkapp.com/version-control/common-git-commands.html)
+[Common Git Commands](http://guides.beanstalkapp.com/version-control/common-git-commands.html)<br/>
 
 ### FFMPEG
-[19 FFmpeg Commands For All Needs](https://catswhocode.com/ffmpeg-commands/)
+[19 FFmpeg Commands For All Needs](https://catswhocode.com/ffmpeg-commands/)<br/>
 
 ### SOFA
-[Home](https://www.sofa-framework.org/)
+[Home](https://www.sofa-framework.org/)<br/>
 
 Knowledge base
 ======
 [Buckingham π theorem](http://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/fprops/dimension/node9.html) <br />
 [Soft Robotics Toolkit](https://softroboticstoolkit.com/home)<br />
 [Curated list of robotics resources](https://github.com/kiloreux/awesome-robotics)<br />
-[Foundations of Robotics and Computer Vision](https://faculty.sites.iastate.edu/jia/foundations-robotics-and-computer-vision-com-s-477577)
+[Foundations of Robotics and Computer Vision](https://faculty.sites.iastate.edu/jia/foundations-robotics-and-computer-vision-com-s-477577)<br/>
 
 
 Paper with codes
@@ -73,15 +73,15 @@ Products
 
 ### [Adafruit](https://www.adafruit.com/)
 [Project](https://learn.adafruit.com/)<br/>
-[Adafruit LSM6DS3TR-C 6-DoF Accel + Gyro IMU](https://www.adafruit.com/product/4503)
+[Adafruit LSM6DS3TR-C 6-DoF Accel + Gyro IMU](https://www.adafruit.com/product/4503)<br/>
 
 ### [Rethink robotics](https://sdk.rethinkrobotics.com/intera/Main_Page)
-[Intera SDK](https://support.rethinkrobotics.com/support/solutions)
-[Setup](https://sdk.rethinkrobotics.com/intera/Workstation_Setup)
+[Intera SDK](https://support.rethinkrobotics.com/support/solutions)<br/>
+[Setup](https://sdk.rethinkrobotics.com/intera/Workstation_Setup)<br/>
 
 ### Camera
-[JeVois](https://www.jevoisinc.com/)
-[Logitech C922x Pro Stream Webcam](https://www.amazon.com/dp/B01LXCDPPK/)
+[JeVois](https://www.jevoisinc.com/)<br/>
+[Logitech C922x Pro Stream Webcam](https://www.amazon.com/dp/B01LXCDPPK/)<br/>
 
   
 Laboratory
@@ -90,5 +90,5 @@ Laboratory
 [Cheng Research Group](https://cheng.cems.umn.edu/) <br />
 [Stocker lab](https://stockerlab.ethz.ch/) <br />
 [Structures-Computer Interaction Lab](https://structures.computer/) <br />
-[Gravish Lab](http://gravishlab.ucsd.edu/index.html)
+[Gravish Lab](http://gravishlab.ucsd.edu/index.html)<br/>
 
