@@ -91,4 +91,5 @@ Laboratory
 [Stocker lab](https://stockerlab.ethz.ch/) <br />
 [Structures-Computer Interaction Lab](https://structures.computer/) <br />
 [Gravish Lab](http://gravishlab.ucsd.edu/index.html)<br/>
+[Max Planck Institute for Intelligent Systems](https://pi.is.mpg.de/)<br/>
 
