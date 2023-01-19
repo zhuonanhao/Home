@@ -10,8 +10,8 @@ author_profile: true
 Packages/Libraries
 ======
 ### Matlab
-[CVX Users's Guide](http://web.cvxr.com/cvx/doc/) <br />
-[CasADi](https://web.casadi.org/docs/) <br />
+[CVX Users's Guide](http://web.cvxr.com/cvx/doc/)<br />
+[CasADi](https://web.casadi.org/docs/)<br />
 
 ### Python
 [The Python Standard Library](https://docs.python.org/3/library/index.html)<br/>
@@ -30,7 +30,7 @@ Packages/Libraries
 
 Knowledge base
 ======
-[Buckingham π theorem](http://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/fprops/dimension/node9.html) <br />
+[Buckingham π theorem](http://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/fprops/dimension/node9.html)<br />
 [Soft Robotics Toolkit](https://softroboticstoolkit.com/home)<br />
 [Curated list of robotics resources](https://github.com/kiloreux/awesome-robotics)<br />
 [Foundations of Robotics and Computer Vision](https://faculty.sites.iastate.edu/jia/foundations-robotics-and-computer-vision-com-s-477577)<br/>
@@ -44,25 +44,25 @@ Courses
 ======
 
 ### UCLA
-[Discrete Simulation of Slender Structures and Soft Robots](https://structures.computer/slenderstructures) <br />
-[ECE 236A - Linear Programming](http://www.seas.ucla.edu/~vandenbe/ee236a/ee236a.html) <br />
-[MAE 263B	- Dynamics of Robotic Systems](http://bionics.seas.ucla.edu/education/MAE_263D.html) <br/>
+[Discrete Simulation of Slender Structures and Soft Robots](https://structures.computer/slenderstructures)<br />
+[ECE 236A - Linear Programming](http://www.seas.ucla.edu/~vandenbe/ee236a/ee236a.html)<br />
+[MAE 263B	- Dynamics of Robotic Systems](http://bionics.seas.ucla.edu/education/MAE_263D.html)<br/>
 
 ### UCSD
-[MAE 288A - Optimal Control](http://maeresearch.ucsd.edu/mceneaney/mae288a/) <br />
-[MAE 283A	- Parametric System Identification](http://mechatronics.ucsd.edu/mae283a_20/index.html) <br/>
-[ECE 271A	- Statistical Learning I](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm) <br/>
-[MAE 281A	- Nonlinear Systems](http://flyingv.ucsd.edu/krstic/teaching/281a/281a.html) <br/>
+[MAE 288A - Optimal Control](http://maeresearch.ucsd.edu/mceneaney/mae288a/)<br />
+[MAE 283A	- Parametric System Identification](http://mechatronics.ucsd.edu/mae283a_20/index.html)<br/>
+[ECE 271A	- Statistical Learning I](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)<br/>
+[MAE 281A	- Nonlinear Systems](http://flyingv.ucsd.edu/krstic/teaching/281a/281a.html)<br/>
 
 ### MIT
-[MIT OpenCourseWare](https://ocw.mit.edu/) <br />
+[MIT OpenCourseWare](https://ocw.mit.edu/)<br />
 
 Products
 ======
 
 ### [Wemos](https://www.wemos.cc/en/latest/index.html)
 [Wemos D1 Motor Shield](https://www.amazon.com/dp/B07P6LPY2C)<br/>
-[Wemos D1 Mini + Motor Shield + Encoder](https://www.instructables.com/Wemos-D1-Mini-WIFI-Robot-MQTT-UDP/) <br />
+[Wemos D1 Mini + Motor Shield + Encoder](https://www.instructables.com/Wemos-D1-Mini-WIFI-Robot-MQTT-UDP/)<br />
 [Wemos D1 Motor Shield Firmware](https://github.com/thomasfredericks/wemos_motor_shield)<br/>
 [Micro Metal Gearmotors](https://www.pololu.com/category/60/micro-metal-gearmotors)<br/>
 
@@ -87,9 +87,16 @@ Products
 Laboratory
 ======
 
-[Cheng Research Group](https://cheng.cems.umn.edu/) <br />
-[Stocker lab](https://stockerlab.ethz.ch/) <br />
-[Structures-Computer Interaction Lab](https://structures.computer/) <br />
+[Cheng Research Group](https://cheng.cems.umn.edu/)<br />
+[Stocker lab](https://stockerlab.ethz.ch/)<br />
+[Structures-Computer Interaction Lab](https://structures.computer/)<br />
 [Gravish Lab](http://gravishlab.ucsd.edu/index.html)<br/>
 [Max Planck Institute for Intelligent Systems](https://pi.is.mpg.de/)<br/>
 
+Utility
+======
+
+[ezgif](https://ezgif.com/)<br />
+[Remove Background](https://www.remove.bg/)<br />
+[Video Converter](https://video-converter.com/)<br />
+[WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/)<br />
