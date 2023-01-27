@@ -38,7 +38,7 @@ Knowledge base
 
 Paper with codes
 ======
-
+[Neural Ordinary Differential Equation](https://ayandas.me/blog-tut/2020/03/20/neural-ode.html)
 
 Courses
 ======
