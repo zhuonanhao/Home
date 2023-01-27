@@ -74,6 +74,7 @@ Products
 ### [Adafruit](https://www.adafruit.com/)
 [Project](https://learn.adafruit.com/)<br/>
 [Adafruit LSM6DS3TR-C 6-DoF Accel + Gyro IMU](https://www.adafruit.com/product/4503)<br/>
+[Adafruit DRV8871 Brushed DC Motor Driver Breakout](https://learn.adafruit.com/adafruit-drv8871-brushed-dc-motor-driver-breakout)<br/>
 
 ### [Rethink robotics](https://sdk.rethinkrobotics.com/intera/Main_Page)
 [Intera SDK](https://support.rethinkrobotics.com/support/solutions)<br/>
