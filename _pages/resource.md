@@ -33,6 +33,7 @@ Knowledge base
 [Buckingham π theorem](http://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/fprops/dimension/node9.html)<br />
 [Soft Robotics Toolkit](https://softroboticstoolkit.com/home)<br />
 [Curated list of robotics resources](https://github.com/kiloreux/awesome-robotics)<br />
+[SeaPerch](https://seaperch.org/)<br />
 [Foundations of Robotics and Computer Vision](https://faculty.sites.iastate.edu/jia/foundations-robotics-and-computer-vision-com-s-477577)<br/>
 
 
@@ -64,6 +65,8 @@ Products
 [Wemos D1 Motor Shield](https://www.amazon.com/dp/B07P6LPY2C)<br/>
 [Wemos D1 Mini + Motor Shield + Encoder](https://www.instructables.com/Wemos-D1-Mini-WIFI-Robot-MQTT-UDP/)<br />
 [Wemos D1 Motor Shield Firmware](https://github.com/thomasfredericks/wemos_motor_shield)<br/>
+
+### [McMaster](https://www.mcmaster.com/)
 [Micro Metal Gearmotors](https://www.pololu.com/category/60/micro-metal-gearmotors)<br/>
 
 ### [Arduino](https://www.arduino.cc/)
