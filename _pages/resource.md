@@ -66,8 +66,9 @@ Products
 [Wemos D1 Mini + Motor Shield + Encoder](https://www.instructables.com/Wemos-D1-Mini-WIFI-Robot-MQTT-UDP/)<br />
 [Wemos D1 Motor Shield Firmware](https://github.com/thomasfredericks/wemos_motor_shield)<br/>
 
-### [McMaster](https://www.mcmaster.com/)
+### [Polulu](https://www.mcmaster.com/)
 [Micro Metal Gearmotors](https://www.pololu.com/category/60/micro-metal-gearmotors)<br/>
+[Motor with Shaft](https://www.amazon.com/Metal-Reduction-Electric-Output-200RPM/dp/B07JVSCWTJ/ref=sr_1_6?crid=36ZMFVNR8ALW6&keywords=DC+6%2F12V+N20+Metal+Speed+Reduction+Motor+Micro+Electric+Motor+With+Long+Output+Shaft+M4+x+100mm%2812V+600RPM%29&qid=1676588725&s=hi&sprefix=dc+6%2F12v+n20+metal+speed+reduction+motor+micro+electric+motor+with+long+output+shaft+m4+x+100mm+12v+600rpm+%2Ctools%2C129&sr=1-6)
 
 ### [Arduino](https://www.arduino.cc/)
 [Project](https://projecthub.arduino.cc/)<br/>
