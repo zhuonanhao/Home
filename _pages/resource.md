@@ -36,8 +36,8 @@ Knowledge base
 [SeaPerch](https://seaperch.org/)<br />
 [Foundations of Robotics and Computer Vision](https://faculty.sites.iastate.edu/jia/foundations-robotics-and-computer-vision-com-s-477577)<br/>
 [Paul McWhorter](https://www.youtube.com/@paulmcwhorter/playlists)<br/>
-[toptechboy](https://toptechboy.com/)
-[Coding Scientist](https://www.youtube.com/@CodingScientist/playlists)
+[toptechboy](https://toptechboy.com/)<br/>
+[Coding Scientist](https://www.youtube.com/@CodingScientist/playlists)<br/>
 
 
 Paper with codes
