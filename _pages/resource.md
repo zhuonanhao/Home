@@ -83,7 +83,10 @@ Products
 ### [Adafruit](https://www.adafruit.com/)
 [Project](https://learn.adafruit.com/)<br/>
 [Adafruit LSM6DS3TR-C 6-DoF Accel + Gyro IMU](https://www.adafruit.com/product/4503)<br/>
-[Adafruit DRV8871 Brushed DC Motor Driver Breakout](https://learn.adafruit.com/adafruit-drv8871-brushed-dc-motor-driver-breakout)<br/>
+[Adafruit DRV8871 Brushed DC Motor Driver Breakout](https://www.adafruit.com/product/3190)<br/>
+[Adafruit MPU-6050 6-DoF Accel and Gyro Sensor](https://www.adafruit.com/product/3886)<br/>
+[Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055](https://www.adafruit.com/product/2472)<br/>
+[Adafruit Ultimate GPS Breakout - 66 channel w/10 Hz updates - PA1616S](https://www.adafruit.com/product/746)<br/>
 
 ### [Rethink robotics](https://sdk.rethinkrobotics.com/intera/Main_Page)
 [Intera SDK](https://support.rethinkrobotics.com/support/solutions)<br/>
