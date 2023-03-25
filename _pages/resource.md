@@ -87,6 +87,7 @@ Products
 [Adafruit MPU-6050 6-DoF Accel and Gyro Sensor](https://www.adafruit.com/product/3886)<br/>
 [Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055](https://www.adafruit.com/product/2472)<br/>
 [Adafruit Ultimate GPS Breakout - 66 channel w/10 Hz updates - PA1616S](https://www.adafruit.com/product/746)<br/>
+[Adafruit BMP388 - Precision Barometric Pressure and Altimeter - STEMMA QT](https://www.adafruit.com/product/3966)
 
 ### [Rethink robotics](https://sdk.rethinkrobotics.com/intera/Main_Page)
 [Intera SDK](https://support.rethinkrobotics.com/support/solutions)<br/>
