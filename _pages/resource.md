@@ -35,6 +35,9 @@ Knowledge base
 [Curated list of robotics resources](https://github.com/kiloreux/awesome-robotics)<br />
 [SeaPerch](https://seaperch.org/)<br />
 [Foundations of Robotics and Computer Vision](https://faculty.sites.iastate.edu/jia/foundations-robotics-and-computer-vision-com-s-477577)<br/>
+[Paul McWhorter](https://www.youtube.com/@paulmcwhorter/playlists)<br/>
+[toptechboy](https://toptechboy.com/)
+[Coding Scientist](https://www.youtube.com/@CodingScientist/playlists)
 
 
 Paper with codes
@@ -85,6 +88,9 @@ Products
 ### [Rethink robotics](https://sdk.rethinkrobotics.com/intera/Main_Page)
 [Intera SDK](https://support.rethinkrobotics.com/support/solutions)<br/>
 [Setup](https://sdk.rethinkrobotics.com/intera/Workstation_Setup)<br/>
+
+### [Bitcraze](https://www.bitcraze.io/)
+[Crazyflie](https://store.bitcraze.io/collections/kits/products/crazyflie-2-1)<br/>
 
 ### Camera
 [JeVois](https://www.jevoisinc.com/)<br/>
