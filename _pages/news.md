@@ -6,6 +6,7 @@ author_profile: true
 
 Recent News
 ======
+* March, 2023. I attended [APS March Meeting 2023](https://meetings.aps.org/Meeting/MAR23/Session/S10.5) held in Las Vegas, NV, USA.
 * November, 2022. I passed the Ph.D. qualification exam of UC Los Angeles. Now I am officially a PhD candidate!
 * September, 2022. I participated the organization of [Southern California Robotics Symposium 2022](https://www.scr.ucla.edu/) held in UC Los Angeles.
 * April, 2022. One paper called "[Lateral contact yields longitudinal cohesion in active undulatory systems](https://journals.aps.org/pre/accepted/ea079RacS5716d25438a1ea213b156d76804f81c7)" accepted to [Physical Review E](https://journals.aps.org/pre/).
