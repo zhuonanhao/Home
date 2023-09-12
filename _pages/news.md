@@ -6,6 +6,8 @@ author_profile: true
 
 Recent News
 ======
+* October, 2023. I presented my work on [The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)](https://ieee-iros.org/) held in Detroit, MI, USA.
+* September, 2023. I presented my work on [The Southern California Robotics Symposium 2023](https://sites.uci.edu/scr2023/) held in Irvine, CA, USA.
 * March, 2023. I presented my work on [APS March Meeting 2023](https://meetings.aps.org/Meeting/MAR23/Session/S10.5) held in Las Vegas, NV, USA.
 * November, 2022. I passed the Ph.D. qualification exam of UC Los Angeles. Now I am officially a PhD candidate!
 * September, 2022. I participated the organization of [Southern California Robotics Symposium 2022](https://www.scr.ucla.edu/) held in UC Los Angeles.
