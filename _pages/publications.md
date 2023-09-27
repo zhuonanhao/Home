@@ -14,7 +14,7 @@ Journal
 
 Conference
 ======
-* **Hao, Z.**, Lim, S., & Khalid Jawed, M., (2023). Modeling, Characterization, and Control of Bacteria-inspired Bi-flagellated Mechanism with Tumbling. Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023).
+* **Hao, Z.**, Lim, S., & Khalid Jawed, M., (2023). Modeling, Characterization, and Control of Bacteria-inspired Bi-flagellated Mechanism with Tumbling. Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023). [(Article link)](https://arxiv.org/abs/2307.00155)
 * **Hao, Z.**, Lim, S., & Khalid Jawed, M., (2023). Modeling and Characterization of Bacteria-inspired Bi-flagellated Mechanism with Tumbling. The Southern California Robotics Symposium 2023. [(Article link)](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/SCR2023_Zhuonan-Zhuonan-Hao.pdf)
 * **Hao, Z.**, Lim, S., & Khalid Jawed, M., (2023). Modeling and Characterization of Bi-flagellated Robot with Tumbling. Bulletin of the American Physical Society. [(Article link)](https://meetings.aps.org/Meeting/MAR23/Session/S10.5)
 * Khalid Jawed, M., **Hao, Z.**, & Lim, S. (2022). Bacteria-inspired Bi-flagellated Soft Robot with Bundling and Tumbling Behavior. Bulletin of the American Physical Society. [(Article link)](https://meetings.aps.org/Meeting/MAR22/Session/Z08.11)
