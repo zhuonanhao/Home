@@ -18,7 +18,7 @@ Conference
 * **Hao, Z.**, Lim, S., & Khalid Jawed, M. (2023). Modeling and Characterization of Bacteria-inspired Bi-flagellated Mechanism with Tumbling. The Southern California Robotics Symposium 2023. [(Article link)](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/SCR2023_Zhuonan-Zhuonan-Hao.pdf)
 * **Hao, Z.**, Lim, S., & Khalid Jawed, M. (2023). Modeling and Characterization of Bi-flagellated Robot with Tumbling. Bulletin of the American Physical Society. [(Article link)](https://meetings.aps.org/Meeting/MAR23/Session/S10.5)
 * Khalid Jawed, M., **Hao, Z.**, & Lim, S. (2022). Bacteria-inspired Bi-flagellated Soft Robot with Bundling and Tumbling Behavior. Bulletin of the American Physical Society. [(Article link)](https://meetings.aps.org/Meeting/MAR22/Session/Z08.11)
-* **Hao, Z.**, Zhou, W., & Gravish, N. (2021). Synchronized swimming: adaptive gait synchronization through mechanical interactions instead of communication. [(Article link)](https://ir.library.osaka-u.ac.jp/repo/ouka/all/84894/s60b67cd40e086.pdf)
+* **Hao, Z.**, Zhou, W., & Gravish, N. (2021). Synchronized swimming: adaptive gait synchronization through mechanical interactions instead of communication. International Symposium on Adaptive Motion of Animals and Machines. [(Article link)](https://ir.library.osaka-u.ac.jp/repo/ouka/all/84894/s60b67cd40e086.pdf)
 * Zhou, W., Dezha-Peralta, J., **Hao, Z.**, & Gravish, N. (2021). Synchronized swimming: collisions drive gait compatibility in undulatory robots. Bulletin of the American Physical Society, 66. [(Article link)](https://meetings.aps.org/Meeting/MAR21/Session/R14.9)
 
 Thesis
