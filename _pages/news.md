@@ -6,7 +6,7 @@ author_profile: true
 
 Recent News
 ======
-* April, 2024. I presented my work at [The 2024 IEEE 7th International Conference on Soft Robotics (RoboSoft)(https://softroboticsconference.org/)] held in San Diego, CA, USA.
+* April, 2024. I presented my work at [The 2024 IEEE 7th International Conference on Soft Robotics (RoboSoft)](https://softroboticsconference.org/) held in San Diego, CA, USA.
 * March, 2024. I presented my work at [APS March Meeting 2024](https://meetings.aps.org/Meeting/MAR24/Session/D38.2) held in Minneapolis, MN, USA.
 * October, 2023. I presented my work at [The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)](https://ieee-iros.org/) held in Detroit, MI, USA.
 * September, 2023. I attended [SoCal Solids Conference 2023](https://ame.usc.edu/socal-solids-2023/) held in Los Angeles, CA, USA.
