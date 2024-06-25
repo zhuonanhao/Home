@@ -9,13 +9,53 @@ author_profile: true
 
 Ph.D. in UC Los Angeles
 ======
+### Spring 2024
+
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| CEE 298 | Seminar: Engineering: Autonomous Driving for New Mobility | Jiaqi Ma | A |
+| CS 32 | Introduction to Computer Science II | David Smallberg | B |
+| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
+| MAE 599 | Research for and Preparation of PhD Dissertation | M. Khalid Jawed | S |
+
+### Winter 2024
+
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| CS 31 | Introduction to Computer Science I | Howard Stahl | A |
+| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
+| MAE 599 | Research for and Preparation of PhD Dissertation | M. Khalid Jawed | S |
+
+### Fall 2023
+
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
+| MAE 599 | Research for and Preparation of PhD Dissertation | M. Khalid Jawed | S |
+
+### Spring 2023
+
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| CEE 298 | Seminar: Engineering | Sriram Narasimhan | A |
+| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
+| MAE 599 | Research for and Preparation of PhD Dissertation | M. Khalid Jawed | S |
+
+### Winter 2023
+
+| Code | Subject | Instructor | Grade |
+| :----: | :----: | :----: | :----: |
+| MAE 270B | Linear Optimal Control | Tetsuya Iwasaki | A<sup>- |
+| MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
+| MAE 599 | Research for and Preparation of PhD Dissertation | M. Khalid Jawed | S |
+
 ### Fall 2022
 
 | Code | Subject | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
 | MAE 260 | Current Topics in Mechanical Engineering | M. Khalid Jawed | S |
 | ECE 236A | Linear Programming | Christina Fragouli | A<sup>- |
-| MAE 597C | Preparation for Ph.D. Oral Qualifying Examination | M. Khalid Jawed | S |
+| MAE 597C | Preparation for PhD Oral Qualifying Examination | M. Khalid Jawed | S |
 
 ### Spring 2022
 
