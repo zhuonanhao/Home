@@ -32,4 +32,5 @@ Thesis
 
 Manuscript
 ======
-* Ren, L., & **Hao, Z**. (2020). A Simple Fix for Convolutional Neural Network via Coordinate Embedding. arXiv preprint arXiv:2003.10589. [(Article link)](https://arxiv.org/abs/2003.10589)
+* Ren, L., & **Hao, Z.**. (2020). A Simple Fix for Convolutional Neural Network via Coordinate Embedding. arXiv preprint arXiv:2003.10589. [(Article link)](https://arxiv.org/abs/2003.10589)
+* Tong, D., **Hao, Z.**, & Huang, W. (2024). Inverse Design of Planar Clamped-Free Elastic Rods from Noisy Data. arXiv preprint arXiv:2406.15166. [(Article link)](https://arxiv.org/pdf/2406.15166)
