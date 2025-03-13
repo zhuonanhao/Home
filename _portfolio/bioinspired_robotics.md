@@ -4,26 +4,37 @@ excerpt: ""
 collection: portfolio
 ---
 
-# Projects
-
 ## Bio-inspired pneumatic modular actuator for peristaltic transport
-**Overview** This work introduces a modular soft robotic actuator system inspired by biological peristalsis, designed for the safe and efficient transport of fragile, irregularly shaped objects. By integrating optimized donut-shaped actuation modules and real-time pressure feedback, the system achieves robust yet flexible object manipulation without relying on complex control algorithms. 
+**Overview:** This work introduces a modular soft robotic actuator system inspired by biological peristalsis, designed for the safe and efficient transport of fragile, irregularly shaped objects. By integrating optimized donut-shaped actuation modules and real-time pressure feedback, the system achieves robust yet flexible object manipulation without relying on complex control algorithms. 
 
-**Demonstration** 
 <p align="center">
   <img src="https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft.gif" alt="Photo" style="width:400px;"/>
   <br>
 </p>
 
-**[video](https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft.mp4)** 
+**Demonstration:** [video](https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft.mp4) 
 
 ## Bundling and tumbling in bacterial-inspired bi-flagellated soft robots for attitude adjustment
+**Overview:** This work introduces a modular soft robotic actuator system inspired by biological peristalsis, designed for the safe and efficient transport of fragile, irregularly shaped objects. By integrating optimized donut-shaped actuation modules and real-time pressure feedback, the system achieves robust yet flexible object manipulation without relying on complex control algorithms. 
 
+<p align="center">
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft.gif" alt="Photo" style="width:400px;"/>
+  <br>
+</p>
+
+**Demonstration:** [video](https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft.mp4) 
 
 ### Modeling, characterization, and control of bacteria-inspired bi-flagellated mechanism with tumbling
+**Overview:** This work introduces a modular soft robotic actuator system inspired by biological peristalsis, designed for the safe and efficient transport of fragile, irregularly shaped objects. By integrating optimized donut-shaped actuation modules and real-time pressure feedback, the system achieves robust yet flexible object manipulation without relying on complex control algorithms. 
 
-### 
-## Publications
+<p align="center">
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft.gif" alt="Photo" style="width:400px;"/>
+  <br>
+</p>
+
+**Demonstration:** [video](https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft.mp4) 
+
+## References
 
 * Ye, B., **Hao, Z.**, Shah, P. and Jawed, M.K., 2024. Bio-Inspired Pneumatic Modular Actuator for Peristaltic Transport. arXiv preprint arXiv:2412.06823. [(Article link)](https://arxiv.org/abs/2412.06823)
 * **Hao, Z.**, Zalavadia, S. and Jawed, M.K., 2024, April. Bundling and tumbling in bacterial-inspired bi-flagellated soft robots for attitude adjustment. In 2024 IEEE 7th International Conference on Soft Robotics (RoboSoft) (pp. 340-346). IEEE. [(Article link)](https://ieeexplore.ieee.org/abstract/document/10521926)
