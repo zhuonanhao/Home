@@ -11,10 +11,12 @@ collection: portfolio
 
 ### Bundling and tumbling in bacterial-inspired bi-flagellated soft robots for attitude adjustment
 <p align="center">
-<img src="../assets/portfolio/bioinspired_robotics/vid_robosoft.gif" alt="Photo" style="width:400px;"/>
+  <img src="https://zhuonan-hao.github.io/Homepage/images/vid_robosoft.gif" alt="Photo" style="width:400px;"/>
   <br>
+  Robot Prototype (CAD Model)
 </p>
 
+images\bioinspired_robotics\vid_robosoft.gif
 ### Modeling, characterization, and control of bacteria-inspired bi-flagellated mechanism with tumbling
 
 ### 
