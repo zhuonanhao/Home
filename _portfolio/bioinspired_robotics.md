@@ -7,11 +7,13 @@ collection: portfolio
 ## Projects
 
 ### Bio-inspired pneumatic modular actuator for peristaltic transport
-[![Watch the video]](../assets/portfolio/bioinspired_robotics/vid_robosoft.gif)
+*Introduction:* This work introduces a modular soft robotic actuator system inspired by biological peristalsis, designed for the safe and efficient transport of fragile, irregularly shaped objects. By integrating optimized donut-shaped actuation modules and real-time pressure feedback, the system achieves robust yet flexible object manipulation without relying on complex control algorithms. 
+
+*Demonstration:*
 
 ### Bundling and tumbling in bacterial-inspired bi-flagellated soft robots for attitude adjustment
 <p align="center">
-  <img src="https://zhuonanhao.github.io/Home/images/vid_robosoft.gif" alt="Photo" style="width:400px;"/>
+  <img src="https://zhuonanhao.github.io/Home/images/bioinspired_robotics/vid_robosoft.mp4" alt="Photo" style="width:400px;"/>
   <br>
 </p>
 
