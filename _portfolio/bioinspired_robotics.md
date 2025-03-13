@@ -8,7 +8,7 @@ collection: portfolio
 **Overview:** This work introduces a modular soft robotic actuator system inspired by biological peristalsis, designed for the safe and efficient transport of fragile, irregularly shaped objects. By integrating optimized donut-shaped actuation modules and real-time pressure feedback, the system achieves robust yet flexible object manipulation without relying on complex control algorithms. 
 
 <p align="center">
-  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_ral_2025.gif" alt="Video" style="width:800px;"/>
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_ral_2025.gif" alt="Video" style="width:600px;"/>
   <br>
 </p>
 
@@ -18,7 +18,7 @@ collection: portfolio
 **Overview:** 
 
 <p align="center">
-  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft_2024.gif" alt="Video" style="width:800px;"/>
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft_2024.gif" alt="Video" style="width:600px;"/>
   <br>
 </p>
 
@@ -28,7 +28,7 @@ collection: portfolio
 **Overview:** 
 
 <p align="center">
-  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_iros_2023.gif" alt="Video" style="width:800px;"/>
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_iros_2023.gif" alt="Video" style="width:600px;"/>
   <br>
 </p>
 
