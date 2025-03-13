@@ -46,7 +46,7 @@ Design & Control: Enhancing the way we design and control soft robots for variou
   <br>
 </p>
 
-**Link:** [Video](https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_simulator/vid_ral_2024.vid), [Github](https://github.com/DezhongT/Inverse_Design_2D_Rods)
+**Link:** [Video](https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_simulator/vid_ral_2024.mp4), [Github](https://github.com/DezhongT/Jumping_Robot)
 
 ## References
 * Tong, D., **Hao, Z.**, Li, J. and Huang, W. 2025. Inverse Design of Planar Clamped-Free Elastic Rods from Noisy Data. The International Journal for Numerical Methods in Engineering. [(Article link)](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.70018)

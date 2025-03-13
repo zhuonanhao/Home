@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Recent Collections"
+title: "Research Collections"
 permalink: /portfolio/
 author_profile: true
 ---
