@@ -37,4 +37,5 @@ Manuscript
 * Ren, L., and **Hao, Z.**., 2020. A Simple Fix for Convolutional Neural Network via Coordinate Embedding. arXiv preprint arXiv:2003.10589. [(Article link)](https://arxiv.org/abs/2003.10589)
 * Li, J., Tong, D., **Hao, Z.**, Zhu, Y., Wu, H., Liu, M. and Huang, W., 2024. Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics. arXiv preprint arXiv:2502.00714. [(Article link)](https://arxiv.org/abs/2502.00714)
 * Ye, B., **Hao, Z.**, Shah, P. and Jawed, M.K., 2024. Bio-Inspired Pneumatic Modular Actuator for Peristaltic Transport. arXiv preprint arXiv:2412.06823. [(Article link)](https://arxiv.org/abs/2412.06823)
+* Tong, D., **Hao, Z.**, Li, J., Sun, B., Liu, M., Wang, L. and Huang, W. 2025. Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens. arXiv preprint arXiv:2503.08864. [(Article link)](https://arxiv.org/abs/2503.08864)
 
