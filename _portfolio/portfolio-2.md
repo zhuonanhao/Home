@@ -1,7 +1,7 @@
 ---
 title: "Perturbation Resilient Central Pattern Generator (PR-CPG) on a Hybrid Bipedal-Wheeled Robot"
 excerpt: "Developed PR-CPG algorithm on bio-inspired robot to realize robust and adaptive locomotion control against various external disturbance. <br/>  <img src='https://zhuonan-hao.github.io/Homepage/images/central.png'>   <img src='https://zhuonan-hao.github.io/Homepage/images/Minitaur.jpeg'>"
-collection: portfolio
+collection: 
 youtubeId1: yMS-1M50nEM
 youtubeId2: l8UlMAGnlDI
 ---

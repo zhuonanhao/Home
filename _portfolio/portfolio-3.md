@@ -1,7 +1,7 @@
 ---
 title: "A Simple Fix for Convolutional Neural Network via Coordinate Embedding"
 excerpt: "Proposed a simple approach to incorporate the coordinate information to the standard CNN models, which reach an overall 2.47% mAP performance boost on object detection problem. <br/>  <img src='https://zhuonan-hao.github.io/Homepage/images/cnn.png'>   <img src='https://zhuonan-hao.github.io/Homepage/images/sign.jpg'>"
-collection: portfolio
+collection: 
 ---
 
 <i class='fas fa-university'></i> Platform: [Tensorflow](https://www.tensorflow.org/lite/models/object_detection/overview) & [DSMLP](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html)   <br>

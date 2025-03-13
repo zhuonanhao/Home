@@ -1,7 +1,7 @@
 ---
 title: "Application of magneto-rheological material on semi-active vehicle suspension "
 excerpt: "Advanced a novel design of damping and stiffness controllable semi-active suspension, which outperform passive system in both theoretical analysis and experimental evaluation significantly. <br> <img src='https://zhuonan-hao.github.io/Homepage/images/MRDamper.jpg'>  <img src='https://zhuonan-hao.github.io/Homepage/images/mrf.gif'>"
-collection: portfolio
+collection: 
 ---
 
 <i class='fas fa-university'></i> Platform: Dynamics and Vibration Control Lab   <br>

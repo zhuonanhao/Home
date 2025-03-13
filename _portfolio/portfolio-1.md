@@ -1,7 +1,7 @@
 ---
 title: "Collisions drive gait compatibility in collective undulatory locomotion"
 excerpt: "Explored how groups of simple bio-inspired robots that move through lateral body undulation can locomote in close proximity through either autonomous or non-autonomous actuation. <br/> <img src='https://zhuonan-hao.github.io/Homepage/images/swarm.png'>   <img src='https://zhuonan-hao.github.io/Homepage/images/exp.png'>"
-collection: portfolio
+collection: 
 youtubeId1: wEbyVUq77Uw
 youtubeId2: dH1J7cAwSV4
 youtubeId3: 4QYgdLAgntk
