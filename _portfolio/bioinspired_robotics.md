@@ -6,13 +6,16 @@ collection: portfolio
 
 ## Projects
 
-### Bio-Inspired Pneumatic Modular Actuator for Peristaltic Transport
-[![Watch the video]](../assets/portfolio/bioinspired_robotics/vid_ral.mp4)
+### Bio-inspired pneumatic modular actuator for peristaltic transport
+[![Watch the video]](../assets/portfolio/bioinspired_robotics/vid_robosoft.gif)
 
+### Bundling and tumbling in bacterial-inspired bi-flagellated soft robots for attitude adjustment
+<p align="center">
+<img src="../assets/portfolio/bioinspired_robotics/vid_robosoft.gif" alt="Photo" style="width:400px;"/>
+  <br>
+</p>
 
-### Bundling and tumbling in bacterial-inspired bi-flagellated soft robots for attitude adjustment.
-
-### Modeling, characterization, and control of bacteria-inspired bi-flagellated mechanism with tumbling.
+### Modeling, characterization, and control of bacteria-inspired bi-flagellated mechanism with tumbling
 
 ### 
 ## Publications
