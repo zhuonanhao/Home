@@ -37,8 +37,18 @@ Design & Control: Enhancing the way we design and control soft robots for variou
 
 **Link:** [Github](https://github.com/DezhongT/Inverse_Design_2D_Rods)
 
+## Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning
 
+**Overview:** Here, we propose a physics-data hybrid inverse design strategy to endow the snap-jump robot with diverse jumping capabilities. We first develop a discrete numerical framework for the dynamic analysis of snap-actuated jumping robots and then use extensive simulation data to establish a data-driven inverse design solution. This approach allows rapid exploration of parameter spaces to achieve targeted jump trajectories, providing a robust foundation for the robot's fabrication. Our methodology offers a powerful framework for advancing the design and control of soft robots through integrated simulation and data-driven techniques.
 
+<p align="center">
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_simulator/vid_ral_2024.gif" alt="Video" style="width:400px;"/>
+  <br>
+</p>
+
+**Link:** [Video](https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_simulator/vid_ral_2024.vid), [Github](https://github.com/DezhongT/Inverse_Design_2D_Rods)
+
+## References
 * Tong, D., **Hao, Z.**, Li, J. and Huang, W. 2025. Inverse Design of Planar Clamped-Free Elastic Rods from Noisy Data. The International Journal for Numerical Methods in Engineering. [(Article link)](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.70018)
 * Li, J., Tong, D., **Hao, Z.**, Zhu, Y., Wu, H., Liu, M. and Huang, W., 2024. Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics. arXiv preprint arXiv:2502.00714. [(Article link)](https://arxiv.org/abs/2502.00714)
-
+* Tong, D., **Hao, Z.**, Liu, M. and Huang, W., 2024. Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning. IEEE Robotics and Automation Letters. [(Article link)](https://ieeexplore.ieee.org/abstract/document/10816482)
