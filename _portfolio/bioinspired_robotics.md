@@ -24,7 +24,7 @@ collection: portfolio
 
 **Link:** [Video](https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft_2024.mp4) 
 
-### Modeling, characterization, and control of bacteria-inspired bi-flagellated mechanism with tumbling
+## Modeling, characterization, and control of bacteria-inspired bi-flagellated mechanism with tumbling
 **Overview:** 
 
 <p align="center">
