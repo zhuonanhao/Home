@@ -4,11 +4,9 @@ excerpt: "Advanced a novel design of damping and stiffness controllable semi-act
 collection: 
 ---
 
-<i class='fas fa-university'></i> Platform: Dynamics and Vibration Control Lab   <br>
-<i class='fas fa-calendar-alt'></i> Time: Oct. 2018 -- Jul. 2019   <br>
-<i class='fas fa-address-book'></i> Advisor: [Prof. Weihua Li](https://scholar.google.com/citations?user=lkG9MccAAAAJ&hl=zh-CN)
+## Modelling and experimental evaluation of a variable stiffness MR suspension with self-powering capability
 
-We design a semi-active vehicle suspension with a stiffness variable self-powered MR damper, which can vary the stiffness of the suspension. In order to convert the mechanical vibration into the electric power to support the MR damper, the energy harvesting structure coupled a ball-screw bearing with a rotary generator. The working principle and the mathematic model are presented. 
+**Overview:** We design a semi-active vehicle suspension with a stiffness variable self-powered MR damper, which can vary the stiffness of the suspension. In order to convert the mechanical vibration into the electric power to support the MR damper, the energy harvesting structure coupled a ball-screw bearing with a rotary generator. The working principle and the mathematic model are presented. 
 
 <br>	
 <p align="center">	
@@ -32,3 +30,7 @@ Finally, by employing the quarter-car test system, several tests of the suspensi
 </p>
 
 The result illustrates that STFT control with self-powered energy, compared with the passive system, is feasible and effective to reduce 16.8% acceleration RMS and 21.4% displacement RMS.
+
+## References
+
+* Zhu, X., Ning, D., **Hao, Z.**, Huang, H., Sun, Y.Z., Jia, H., Sun, S., Yan, T. and Li, W., 2021. Modelling and experimental evaluation of a variable stiffness MR suspension with self-powering capability. Journal of Intelligent Material Systems and Structures, 32(13), pp.1473-1483. [(Article link)](https://journals.sagepub.com/doi/abs/10.1177/1045389X20986994)
