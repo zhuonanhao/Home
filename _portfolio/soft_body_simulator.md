@@ -42,7 +42,7 @@ Design & Control: Enhancing the way we design and control soft robots for variou
 **Overview:** Here, we propose a physics-data hybrid inverse design strategy to endow the snap-jump robot with diverse jumping capabilities. We first develop a discrete numerical framework for the dynamic analysis of snap-actuated jumping robots and then use extensive simulation data to establish a data-driven inverse design solution. This approach allows rapid exploration of parameter spaces to achieve targeted jump trajectories, providing a robust foundation for the robot's fabrication. Our methodology offers a powerful framework for advancing the design and control of soft robots through integrated simulation and data-driven techniques.
 
 <p align="center">
-  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_simulator/vid_ral_2024.gif" alt="Video" style="width:400px;"/>
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_simulator/vid_ral_2024.gif" alt="Video" style="width:800px;"/>
   <br>
 </p>
 
