@@ -1,5 +1,5 @@
 ---
-title: "Bio-inspired robotics"
+title: "Bio-Inspired Robotics"
 excerpt: ""
 collection: portfolio
 ---
@@ -7,8 +7,14 @@ collection: portfolio
 ## Projects
 
 ### Bio-Inspired Pneumatic Modular Actuator for Peristaltic Transport
-[![Watch the video](thumbnail.png)](../assets/portfolio/bioinspired_robotics/vid_ral.mp4)
+[![Watch the video]](../assets/portfolio/bioinspired_robotics/vid_ral.mp4)
 
+
+### Bundling and tumbling in bacterial-inspired bi-flagellated soft robots for attitude adjustment.
+
+### Modeling, characterization, and control of bacteria-inspired bi-flagellated mechanism with tumbling.
+
+### 
 ## Publications
 
 * Ye, B., **Hao, Z.**, Shah, P. and Jawed, M.K., 2024. Bio-Inspired Pneumatic Modular Actuator for Peristaltic Transport. arXiv preprint arXiv:2412.06823. [(Article link)](https://arxiv.org/abs/2412.06823)
