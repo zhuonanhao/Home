@@ -1,6 +1,6 @@
 ---
 title: "Bio-Inspired Robotics"
-excerpt: ""
+excerpt: "Developed bio-inspired robotic systems for peristaltic transport and flagellated swimming, exploring soft actuation, proprioceptive control, and hydrodynamic interactions. <br/> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/cover.png'>"
 collection: portfolio
 ---
 
@@ -15,7 +15,7 @@ collection: portfolio
 **Link:** [Video](https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_ral_2025.mp4), [Github](https://github.com/StructuresComp/Peristaltic_Actuator)
 
 ## Bundling and tumbling in bacterial-inspired bi-flagellated soft robots for attitude adjustment
-**Overview:** 
+**Overview:** This project develops a bio-inspired robotic swimmer with two independently controlled flexible flagella for propulsion in viscous environments. Using silicone-based helical flagella, the study combines experimental fabrication with a physics-based computational framework. The simulation employs the Discrete Elastic Rod method for flagella mechanics, the Regularized Stokeslet Segments method for hydrodynamics, and an Implicit Contact Model to capture interactions. This approach successfully models emergent behaviors like bundling and tumbling, demonstrating the robot’s ability to self-reorient. The findings offer insights into flagellated robot mobility, with potential applications in microscopic robotics, including targeted drug delivery.
 
 <p align="center">
   <img src="https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft_2024.gif" alt="Video" style="width:600px;"/>
@@ -25,7 +25,7 @@ collection: portfolio
 **Link:** [Video](https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_robosoft_2024.mp4) 
 
 ## Modeling, characterization, and control of bacteria-inspired bi-flagellated mechanism with tumbling
-**Overview:** 
+**Overview:** This project develops a bio-inspired macroscopic robot with two rigid helical flagella and a cylindrical head, mimicking bacterial swimming dynamics in low Reynolds number flow. Unlike simplified models like Resistive Force Theory, the study employs the Regularized Stokeslet Segments method to accurately capture hydrodynamic interactions, including bundling and tumbling. By rotating the flagella in opposite directions, the robot achieves controlled reorientation through a tumble control scheme with just two inputs. The study also explores flagellum geometry to optimize propulsion and torque. This framework lays the groundwork for future miniaturization into steerable microscale robotic swimmers.
 
 <p align="center">
   <img src="https://zhuonanhao.github.io/Home/assets/portfolio/bioinspired_robotics/vid_iros_2023.gif" alt="Video" style="width:600px;"/>
