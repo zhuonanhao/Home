@@ -65,6 +65,7 @@ Skills
 
 Leadership
 ======
+* UCLA Robotics Institute Student Committee Member
 * Organizer of [Southern California Robotics Symposium 2022, UCLA](https://www.scr.ucla.edu/)
 
 Prefessional membership
