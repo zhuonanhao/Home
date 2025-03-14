@@ -1,16 +1,16 @@
 ---
 title: "Soft Body Simulator"
-excerpt: ""
+excerpt: "Developed numerical frameworks leveraging discrete differential geometry and physics-informed machine learning to model, simulate, and inverse design flexible structures, advancing soft robotics and elastic rod mechanics. <br/> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_simulator/cover.png'>"
 collection: portfolio
 ---
 
 ## A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry method
-**Overview:** 
+**Overview:** Discrete differential geometry (DDG) has emerged as a promising alternative numerical framework for simulating flexible structures. DDG provides a discrete representation of geometry that directly encodes curvature, torsion, and deformation mechanics, making it particularly suitable for modeling elastic structures. Unlike FEM and FDM, which approximate geometric properties from a continuous formulation, DDG operates on discrete geometric quantities, ensuring consistency in shape representation and numerical stability.
 
-<!-- <p align="center">
-  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_simulator/vid_aisy_2025.gif" alt="Video" style="width:400px;"/>
+<p align="center">
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_simulator/DDG_Application.png" alt="Video" style="width:400px;"/>
   <br>
-</p> -->
+</p>
 
 **Link:** [Video](), [Github](https://github.com/weicheng-huang-mechanics/DDG_Tutorial), [Website](https://zhuonanhao.github.io/DDG_Tutorial_Website/)
 
