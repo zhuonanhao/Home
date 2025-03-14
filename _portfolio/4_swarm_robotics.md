@@ -1,11 +1,12 @@
 ---
 title: "Swarm Robotics"
-excerpt: "Explored how groups of simple bio-inspired robots that move through lateral body undulation can locomote in close proximity through either autonomous or non-autonomous actuation. <br/> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/swarm_robotics/cover.png'>"
+excerpt: "Investigated the locomotion of undulatory swimming robot groups in close proximity, examining how swarm synchronization emerges through autonomous or externally driven actuation. <br/> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/swarm_robotics/cover.png'>"
 collection: portfolio
 ---
 
 ## Lateral contact yields longitudinal cohesion in active undulatory systems
-**Overview:** 
+**Overview:** This project investigates how undulatory swimming robots synchronize their movement through physical contact interactions. While biological systems often synchronize through fluid interactions, increasing density leads to direct contact, which can influence collective motion. Through experiments and simulations with simple undulatory robots, we demonstrate that contact-based interactions drive phase synchronization, with in-phase and antiphase oscillations emerging in pairs. Larger robot collectives also exhibit synchronization, but antiphase modes disappear when positional adjustments are allowed. Synchronization significantly reduces interaction forces within confined groups, highlighting potential energetic and safety benefits. This work provides insights into how contact interactions shape collective motion in undulatory active matter systems.
+
 <p align="center">
   <img src="https://zhuonanhao.github.io/Home/assets/portfolio/swarm_robotics/vid_pre_2022.gif" alt="Video" style="width:600px;"/>
   <br>
