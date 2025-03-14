@@ -1,6 +1,6 @@
 ---
-title: "Application of magneto-rheological material on semi-active vehicle suspension "
-excerpt: "Advanced a novel design of damping and stiffness controllable semi-active suspension, which outperform passive system in both theoretical analysis and experimental evaluation significantly. <br> <img src='https://zhuonanhao.github.io/Home/images/MRDamper.jpg'>  <img src='https://zhuonanhao.github.io/Home/images/mrf.gif'>"
+title: "Magneto-Rheological Material"
+excerpt: "Advanced a novel design of damping and stiffness controllable semi-active suspension, which outperform passive system in both theoretical analysis and experimental evaluation significantly. <br> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/magneto_rheological_material/MRDamper.jpg'>  <img src='https://zhuonanhao.github.io/Home/assets/portfolio/magneto_rheological_material/mrf.gif'>"
 collection: 
 ---
 
@@ -10,14 +10,14 @@ collection:
 
 <br>	
 <p align="center">	
-  <img src="https://zhuonan-hao.github.io/Homepage/files/suspension.jpg?raw=true" alt="Photo" style="width:800px;"/>	
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/magneto_rheological_material/suspension.jpg?raw=true" alt="Photo" style="width:800px;"/>	
 </p>
 
 After the prototype of the suspension, experimental tests were conducted to evaluate its stiffness variable feature and self-powered generation capability using a hydraulic [INSTRON](https://www.instron.us/products/testing-systems) test system.  
 
 <br>	
 <p align="center">	
-  <img src="https://zhuonan-hao.github.io/Homepage/files/test1.png?raw=true" alt="Photo" style="width:600px;"/>	
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/magneto_rheological_material/test1.png?raw=true" alt="Photo" style="width:600px;"/>	
 </p>
 
 The testing results show that the self-powered generation component can produce electric power, which is sufficient to vary the stiffness of the suspension under the rectified-supply mode, but not effective to change the stiffness of the suspension under the direct-supply mode.
@@ -26,7 +26,7 @@ Finally, by employing the quarter-car test system, several tests of the suspensi
 
 <br>	
 <p align="center">	
-  <img src="https://zhuonan-hao.github.io/Homepage/files/test2.png?raw=true" alt="Photo" style="width:600px;"/>	
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/magneto_rheological_material/test2.png?raw=true" alt="Photo" style="width:600px;"/>	
 </p>
 
 The result illustrates that STFT control with self-powered energy, compared with the passive system, is feasible and effective to reduce 16.8% acceleration RMS and 21.4% displacement RMS.

@@ -1,5 +1,5 @@
 ---
-title: "Painting Robotics"
+title: "Robotics Painting"
 excerpt: ""
 collection: portfolio
 ---
