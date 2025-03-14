@@ -1,6 +1,6 @@
 ---
 title: "Swarm Robotics"
-excerpt: "Explored how groups of simple bio-inspired robots that move through lateral body undulation can locomote in close proximity through either autonomous or non-autonomous actuation. <br/> <img src='https://zhuonanhao.github.io/Home/images/swarm.png'>   <img src='https://zhuonanhao.github.io/Home/images/exp.png'>"
+excerpt: "Explored how groups of simple bio-inspired robots that move through lateral body undulation can locomote in close proximity through either autonomous or non-autonomous actuation. <br/> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/swarm_robotics/cover.png'>"
 collection: portfolio
 ---
 
