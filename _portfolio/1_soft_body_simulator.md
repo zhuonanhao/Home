@@ -8,11 +8,11 @@ collection: portfolio
 **Overview:** Discrete differential geometry (DDG) has emerged as a promising alternative numerical framework for simulating flexible structures. DDG provides a discrete representation of geometry that directly encodes curvature, torsion, and deformation mechanics, making it particularly suitable for modeling elastic structures. Unlike FEM and FDM, which approximate geometric properties from a continuous formulation, DDG operates on discrete geometric quantities, ensuring consistency in shape representation and numerical stability.
 
 <p align="center">
-  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_simulator/DDG_Application.png" alt="Video" style="width:400px;"/>
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_simulator/DDG_Application.png" alt="Video" style="width:600px;"/>
   <br>
 </p>
 
-**Link:** [Video](), [Github](https://github.com/weicheng-huang-mechanics/DDG_Tutorial), [Website](https://zhuonanhao.github.io/DDG_Tutorial_Website/)
+**Link:** [Github](https://github.com/weicheng-huang-mechanics/DDG_Tutorial), [Website](https://zhuonanhao.github.io/DDG_Tutorial_Website/)
 
 ## Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics
 **Overview:** In this work, we introduce a novel and efficient simulation framework designed to capture the diverse behaviours of soft robots constructed from bilayer structures. By leveraging the principles of discrete differential geometry, our approach provides deeper insights into:

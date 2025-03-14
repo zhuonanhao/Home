@@ -1,6 +1,6 @@
 ---
 title: "Soft Body Control"
-excerpt: ""
+excerpt: "Developed a control scheme combining discrete differential geometry and physics-informed machine learning for real-time control, enhancing the performance of soft robots in complex environments. <br/> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/soft_body_control/cover.png'>"
 collection: portfolio
 ---
 
