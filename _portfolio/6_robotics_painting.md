@@ -4,7 +4,7 @@ excerpt: ""
 collection: portfolio
 ---
 
-## Robotic painting: mimicking human applicators
+## Closing the Gap: Human-Inspired Strategies for Robotic Painting
 **Overview:** 
 
 <p align="center">
