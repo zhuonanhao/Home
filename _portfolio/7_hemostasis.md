@@ -1,6 +1,6 @@
 ---
 title: "Hemostasis Deivce"
-excerpt: ""
+excerpt: "We propose a closed‐loop robotic system with four sensing modalities -— combining a soft pneumatic end‐effector with force feedback, internal pressure sensing, real-time ultrasound, and unprecedented full-field visuo‐tactile deformation tracking -- to actively detect bleeding, adjust compression, and ensure safe and effective hemostasis. <br> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/hemostasis/Fig_Overview_Hemostasis.png'>"
 collection: portfolio
 ---
 

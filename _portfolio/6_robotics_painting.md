@@ -1,6 +1,6 @@
 ---
 title: "Robotics Painting"
-excerpt: ""
+excerpt: "We use collaborative robots to emulate human painting demonstrations. <br> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/painting_robotics/fig_roller.png'>  <img src='https://zhuonanhao.github.io/Home/assets/portfolio/painting_robotics/fig_robotics.png'>"
 collection: portfolio
 ---
 
@@ -10,17 +10,17 @@ collection: portfolio
 
 Data collection tool:
 <p align="center">
-  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/painting_robotics/fig_roller.png" alt="Video" style="width:800px;"/>
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/painting_robotics/fig_roller.png" alt="Video" style="width:600px;"/>
   <br>
 </p>
 
 Robot arm setup:
 <p align="center">
-  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/painting_robotics/fig_robotics.png" alt="Video" style="width:800px;"/>
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/painting_robotics/fig_robotics.png" alt="Video" style="width:600px;"/>
   <br>
 </p>
 
-Demostration:
+Demonstration:
 <p align="center">
   <img src="https://zhuonanhao.github.io/Home/assets/portfolio/painting_robotics/vid_tase_2025.gif" alt="Video" style="width:600px;"/>
   <br>
