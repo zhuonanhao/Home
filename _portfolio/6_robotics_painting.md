@@ -1,6 +1,6 @@
 ---
 title: "Robotics Painting"
-excerpt: "We use collaborative robots to emulate human painting demonstrations. <br> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/painting_robotics/fig_roller.png' style='width:400px; height:auto;'>
+excerpt: "We use collaborative robots to emulate human painting demonstrations. <br><div style='text-align:center;'> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/painting_robotics/fig_roller.png' style='width:600px; height:auto;'>"
 collection: portfolio
 ---
 
