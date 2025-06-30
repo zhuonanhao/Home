@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 ## Closing the Gap: Human-Inspired Strategies for Robotic Painting
+
 **Overview:** We propose three main objectives for the overarching task of using collaborative robots to emulate human painting demonstrations. These objectives entail utilizing a robot manipulator with sensing capabilities to 1) characterize a human painting demonstration, 2) reproduce the given demonstration and 3) evaluate the quality of both iterations.
 
 <p align="center">
