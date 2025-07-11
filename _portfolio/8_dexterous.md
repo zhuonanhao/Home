@@ -1,6 +1,6 @@
 ---
 title: "Soft Dexterous Gripper/Hand"
-excerpt: " <br> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/dexterous/setup.png' style='width:800px; height:auto;'>"
+excerpt: " <br> <img src='https://zhuonanhao.github.io/Home/assets/portfolio/dexterous/Setup.png' style='width:800px; height:auto;'>"
 collection: portfolio
 ---
 
