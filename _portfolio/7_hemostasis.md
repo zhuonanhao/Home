@@ -18,6 +18,13 @@ collection: portfolio
   <br>
 </p>
 
+<p align="center">
+  <img src="https://zhuonanhao.github.io/Home/assets/portfolio/hemostasis/Vid_demo.gif" alt="Video" style="width:800px;"/>
+  <br>
+</p>
+
+
+
 
 ## References
 
