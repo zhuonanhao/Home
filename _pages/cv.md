@@ -11,9 +11,15 @@ redirect_from:
 
 Download: [Curriculum_Vitae.pdf](https://zhuonanhao.github.io/Home/files/Curriculum_Vitae.pdf)
 
+Experience
+======
+* Meta (2025 - now)
+  * Machine Learning Research Scientist
+  * Team: Meta Recommendation System (MRS)  
+
 Education
 ======
-* University of California, Los Angeles (2021 - )
+* University of California, Los Angeles (2021 - 2025)
   * Ph.D in Mechanical and Aerospace Engineering
   * Advisor: Prof. M. Khalid Jawed
 * University of California, San Diego (2019 - 2021)
